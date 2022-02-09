@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Jong Wook Kim
     tagline: Software Engineer (Full Stack Developer / Project Leader)
-    avatar: IMG_20211001_203901_555.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: 1632691329160 (1).jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: po00076@gmail.com
@@ -64,9 +64,9 @@ career-profile:
       experiences, very confident in learning new languages or frameworks in no time.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BSc in Computer Science
+      university: Handong Global University
+      time: 2012 - 2018
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -75,9 +75,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Computer Science
+      university: Taylor University
+      time: 2016 - 2017
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -87,43 +87,30 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Engineer
+      time: Jul 2018 - Present
+      company: Samsung SDS, South Korea
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        working as a full-stack engineer/project leader. Mostly used Vue.js, Java, python, Oracle, etc. 
+        Experienced more than 7 projects with the best companies of various domain in Korea, 
+        such as Multi-campus, S1, Samsung cooperation and Cheil worldwide, etc. 
+        Have experience with Macro-service architect. Have experience with Cloud environments (Azure).
+          - Descriptions for Projects are below
+    - role: Researching intern
+      time: Aug 2017 - Feb 2018
+      company: Western Michigan University, U.S.A.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Worked as a researching intern for 6 months at Western Michigan University in Kalamazoo, MI. 
+        Wrote a paper titled, “Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis," which was accepted in ICPP'18. 
+        *[Jong Wook Kim, Hyoeun Choi, and Seung-Hee Bae. 2018. 
+        Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis. 
+        In Proceedings of the 47th International Conference on Parallel Processing Companion (ICPP 18). 
+        Association for Computing Machinery, New York, NY, USA, Article 5, 1-10. DOI:https://doi.org/10.1145/3229710.3229730](https://doi.org/10.1145/3229710.3229730)*
+    - role: Artilleryman
+      time: Jan 2013 - Oct 2014
+      company: Republic of Korea Army, South Korea
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Served in the ROK for 19 months as an Artilleryman. Served as a squad leader for more than 10 months.
 projects:
     title: Projects
     intro: >
