@@ -27,8 +27,9 @@
         {% endif %}
       </span>
 
-      {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
+      {% if project.tagline %}  
+        {{ project.tagline | markdownify }}
+<!--       - <span class="project-tagline">{{ project.tagline }}</span> -->
       {% endif %}
 
     </div><!--//item-->
