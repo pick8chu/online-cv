@@ -68,7 +68,7 @@ education:
       university: Handong Global University
       time: 2012 - 2018
       details: |
-                Describe your study here lorem ipsum dolor sit amet, consectetuer
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
@@ -79,7 +79,7 @@ education:
       university: Taylor University
       time: 2016 - 2017
       details: |
-                Describe your study here lorem ipsum dolor sit amet, consectetuer
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
@@ -91,7 +91,7 @@ experiences:
       time: Jul 2018 - Present
       company: Samsung SDS, South Korea
       details: |
-                working as a full-stack engineer/project leader. Mostly used Vue.js, Java, python, Oracle, etc. 
+        working as a full-stack engineer/project leader. Mostly used Vue.js, Java, python, Oracle, etc. 
         Experienced more than 7 projects with the best companies of various domain in Korea, 
         such as Multi-campus, S1, Samsung cooperation and Cheil worldwide, etc. 
         Have experience with Macro-service architect. Have experience with Cloud environments (Azure).
@@ -100,10 +100,10 @@ experiences:
       time: Aug 2017 - Feb 2018
       company: Western Michigan University, U.S.A.
       details: |
-                Worked as a researching intern for 6 months at Western Michigan University in Kalamazoo, MI. 
+        Worked as a researching intern for 6 months at Western Michigan University in Kalamazoo, MI. 
         Wrote a paper titled, “Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis," which was accepted in ICPP'18. 
         <br/>
-                *[Jong Wook Kim, Hyoeun Choi, and Seung-Hee Bae. 2018. 
+        *[Jong Wook Kim, Hyoeun Choi, and Seung-Hee Bae. 2018. 
         Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis. 
         In Proceedings of the 47th International Conference on Parallel Processing Companion (ICPP 18). 
         Association for Computing Machinery, New York, NY, USA, Article 5, 1-10. DOI:https://doi.org/10.1145/3229710.3229730](https://doi.org/10.1145/3229710.3229730)*
@@ -111,7 +111,7 @@ experiences:
       time: Jan 2013 - Oct 2014
       company: Republic of Korea Army, South Korea
       details: |
-                Served in the ROK for 19 months as an Artilleryman. Served as a squad leader for more than 10 months.
+        Served in the ROK for 19 months as an Artilleryman. Served as a squad leader for more than 10 months.
 projects:
     title: Projects
     intro: >
