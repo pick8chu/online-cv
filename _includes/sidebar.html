@@ -12,7 +12,9 @@
     {% endif %}
 
     {% if sidebar.tagline %}
-    <h3 class="tagline">{{ sidebar.tagline }}</h3>
+    
+      {{ sidebar.tagline | markdownify }}
+<!--     <h3 class="tagline">{{ sidebar.tagline }}</h3> -->
     {% endif %}
 
   </div><!--//profile-container-->
