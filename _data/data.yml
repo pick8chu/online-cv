@@ -104,10 +104,10 @@ experiences:
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Worked as a researching intern for 6 months at Western Michigan University in Kalamazoo, MI. 
         Wrote a paper titled, “Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis," which was accepted in ICPP'18. 
         <br/>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Jong Wook Kim, Hyoeun Choi, and Seung-Hee Bae. 2018. 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Jong Wook Kim, Hyoeun Choi, and Seung-Hee Bae. 2018. 
         Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis. 
         In Proceedings of the 47th International Conference on Parallel Processing Companion (ICPP 18). 
-        Association for Computing Machinery, New York, NY, USA, Article 5, 1-10. DOI:https://doi.org/10.1145/3229710.3229730](https://doi.org/10.1145/3229710.3229730)*
+        Association for Computing Machinery, New York, NY, USA, Article 5, 1-10. DOI:[https://doi.org/10.1145/3229710.3229730](https://doi.org/10.1145/3229710.3229730)*
     - role: Artilleryman
       time: Jan 2013 - Oct 2014
       company: Republic of Korea Army, South Korea
@@ -151,24 +151,11 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis
+        link: "https://doi.org/10.1145/3229710.3229730"
+        authors: Jong Wook Kim, Hyoeun Choi, and Seung-Hee Bae
+        conference: In Proceedings of the 47th International Conference on Parallel Processing Companion, 2018
 
 skills:
     title: Skills &amp; Proficiency
