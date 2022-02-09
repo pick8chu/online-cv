@@ -43,6 +43,12 @@ sidebar:
       - item: Climbing
         link:
 
+      - item: Hiking
+        link:
+
+      - item: Socialiing
+        link:
+
       - item: Playing Guitar
         link:
 
@@ -96,7 +102,6 @@ experiences:
         Experienced more than 7 projects with the best companies of various domain in Korea, 
         such as Multi-campus, S1, Samsung cooperation and Cheil worldwide, etc. 
         Have experience with Macro-service architect. Have experience with Cloud environments (Azure).
-          - Descriptions for Projects are below
     - role: Researching intern
       time: Aug 2017 - Feb 2018
       company: Western Michigan University, U.S.A.
