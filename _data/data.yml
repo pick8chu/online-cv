@@ -119,34 +119,69 @@ projects:
       Projects from Samsung SDS were mostly B2B, therefore, it wouldn't be visible to public. Thank you for your understading.
     assignments:
       - title: Cheil Worldwide credential DB & open platform system project
-        link: "#"
+        role: Project Leader/Developer Leader
+        year: July 2021 – Dec 2021
         tagline: |
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor's degree in computer science and electronic engineering at Handong Global 
-          University in South Korea. Studied abroad at Taylor University in Upland, IN for 1 year as 
-          an exchange student. Worked as a researching intern for 6 months at Western Michigan 
-          University in Kalamazoo, MI, and wrote a paper titled, “Efficient Parallel All-Pairs Shortest 
-          Paths Algorithm for Complex Graph Analysis,” which was accepted in ICPP’18. 
-          Currently working at Samsung SDS as a **software engineer - full stack
-          engineer/project leader**. Mostly used Vue.js, Java, python, Oracle, etc. Experienced more 
-          than 7 projects with the best companies of various domain in Korea, such as Multi-campus, 
-          S1, Samsung cooperation and Cheil worldwide, etc. Have experience with Macro-service 
-          architect and Cloud environments (Azure). Given the 3+ years System Integration 
-          experiences, very confident in learning new languages or frameworks in no time.
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+          - Developed a platform where project managers can search for their choice of individuals or companies.
+          - Took a part as a project leader.
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Samsung SDS talent matching system project
+        role: Full stack developer
+        year: Jul 2020 – Jun 2021
+        tagline: |
+          - Developed an internal talent matching system targeted to allow employees to apply for specific projects based on certain preferences. 
+          - For the front-end, Vue.js, and for the back-end, Java with Spring and PostgreSQL with myBatis were used.
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Shareholders Meeting system project
+        role: Full stack developer
+        year: Jan 2020 – Jul 2020
+        tagline: |
+          - Developed a Samsung Corporation’s shareholders meeting system.
+          - For the front-end, Vue.js, and for the back-end, Java with Spring and Oracle with myBatis were used.
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Implementing Facility Lifecycle Management System in Samsung Electronics Hungary
+        role: Full stack developer
+        year: Jul 2020 – Jun 2021
+        tagline: |
+          - Developed an internal talent matching system targeted to allow employees to apply for specific projects based on certain preferences. 
+          - For the front-end, Vue.js, and for the back-end, Java with Spring and PostgreSQL with myBatis were used.
+
+      - title: Samsung SDS talent matching system project
+        role: Project Leader
+        year: Nov 2019 – Dec 2019
+        tagline: |
+          - Implemented a new system called Facility Lifecycle Management system in Samsung Electronics in Hungary.
+          - Gathered every data of the factory and put them into the system by managing employees and trained them to be able to use the system.
+
+      - title: S1 Next Generation Project
+        role: Full stack developer
+        year: Sep 2019 – Oct 2019
+        tagline: |
+          - S1 is a security company which provides total security solution for schools, banks, houses, etc. by enhancing stability of system security business and building solutions.
+          - Used Azure, CosmosDB, java and Vue.js
+          - Mainly focused on making an algorithm of an interface service to connect separated system using java.
+
+      - title: Implementing Facility Lifecycle Management System in Samsung Electronics Indonesia
+        role: Project Leader
+        year: Nov 2019 – Dec 2019
+        tagline: |
+          - Implemented a new system called Facility Lifecycle Management system in Samsung Electronics in Indonesia.
+          - Gathered every data of the factory and put them into the system by managing employees and trained them to be able to use the system.
+
+      - title: Multi-campus Next Generation Project
+        role: Full stack developer
+        year: Jul 2018 – May 2019
+        tagline: |
+          - Multi-campus is the best Human Resource Development Company in Republic of Korea which offers education services through online to mainly companies or individuals. The goal of this project was to transform the original website to a brand new website by integrating many existing services and developing new services.
+          - Participated as a front and back-end developer. 
+          - Mainly worked on pages for managing contents providers’ classes and registering processes. 
+          - Worked on interfacing Multi-campus’ website and contents providers’ websites. 
+
+      - title: Researching Intern
+        role: Researching Intern
+        year: Aug 2017 - Feb 2018
+        tagline: |
+          - 	Published a paper, “Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis”, and accepted by ICPP’18, Proceedings of the 47th International Conference on Parallel Processing Companion.
 
 publications:
     title: Publications
