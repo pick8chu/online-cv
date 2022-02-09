@@ -8,55 +8,61 @@ sidebar:
 
     # Profile information
     name: Jong Wook Kim
-    tagline: Software Engineer \n (Full Stack Developer / Project Leader)
+    tagline: Software Engineer (Full Stack Developer / Project Leader)
     avatar: IMG_20211001_203901_555.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: po00076@gmail.com
+    phone: +82-10-4105-8667
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: pick8chu.github.io/ #do not add http://
+    linkedin: jong-wook-ethan-kim
+    xing:
+    github: pick8chu
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf:
 
     languages:
-      - idiom: English
+      - idiom: Korean
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: Fluent
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Japanese
+        level: Intermediate
 
     interests:
       - item: Climbing
         link:
 
-      - item: Snowboarding
+      - item: Playing Guitar
         link:
 
-      - item: Cooking
+      - item: Rowing
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Bachelor's degree in computer science and electronic engineering at Handong Global 
+      University in South Korea. Studied abroad at Taylor University in Upland, IN for 1 year as 
+      an exchange student. Worked as a researching intern for 6 months at Western Michigan 
+      University in Kalamazoo, MI, and wrote a paper titled, “Efficient Parallel All-Pairs Shortest 
+      Paths Algorithm for Complex Graph Analysis,” which was accepted in ICPP’18. 
+      Currently working at Samsung SDS as a **software engineer - full stack
+      engineer/project leader**. Mostly used Vue.js, Java, python, Oracle, etc. Experienced more 
+      than 7 projects with the best companies of various domain in Korea, such as Multi-campus, 
+      S1, Samsung cooperation and Cheil worldwide, etc. Have experience with Macro-service 
+      architect and Cloud environments (Azure). Given the 3+ years System Integration 
+      experiences, very confident in learning new languages or frameworks in no time.
+
 education:
     - degree: MSc in Computer Science
       university: University of London
