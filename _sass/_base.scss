@@ -225,7 +225,9 @@ p {
       margin-bottom: 15px;
     }
   }
-  .project-year {
+  .project-sub {
+    justify-content: space-between;
+    display: flex;
     margin-bottom: 10px;
     color: #97AAC3;
     text-align: right;
