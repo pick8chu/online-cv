@@ -119,8 +119,18 @@ projects:
     assignments:
       - title: Cheil Worldwide credential DB & open platform system project
         link: "#"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
+        tagline: |
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor's degree in computer science and electronic engineering at Handong Global 
+          University in South Korea. Studied abroad at Taylor University in Upland, IN for 1 year as 
+          an exchange student. Worked as a researching intern for 6 months at Western Michigan 
+          University in Kalamazoo, MI, and wrote a paper titled, “Efficient Parallel All-Pairs Shortest 
+          Paths Algorithm for Complex Graph Analysis,” which was accepted in ICPP’18. 
+          Currently working at Samsung SDS as a **software engineer - full stack
+          engineer/project leader**. Mostly used Vue.js, Java, python, Oracle, etc. Experienced more 
+          than 7 projects with the best companies of various domain in Korea, such as Multi-campus, 
+          S1, Samsung cooperation and Cheil worldwide, etc. Have experience with Macro-service 
+          architect and Cloud environments (Azure). Given the 3+ years System Integration 
+          experiences, very confident in learning new languages or frameworks in no time.
       - title: DevStudio
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
