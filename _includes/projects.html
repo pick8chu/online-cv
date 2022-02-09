@@ -26,6 +26,9 @@
         {{ project.title }}
         {% endif %}
       </span>
+      <div class="project-year">
+        {{ project.year }} 
+      </div>
 
       {% if project.tagline %}  
         {{ project.tagline | markdownify }}
