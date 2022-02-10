@@ -40,13 +40,22 @@ sidebar:
         level: Intermediate
 
     interests:
+      - item: Algorithm
+        link:
+
+      - item: Machine Learning
+        link:
+
+      - item: Deep Learning
+        link:
+
       - item: Climbing
         link:
 
       - item: Hiking
         link:
 
-      - item: Socialiing
+      - item: Socializing
         link:
 
       - item: Playing Guitar
