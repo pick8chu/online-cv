@@ -290,6 +290,13 @@ p {
     text-align: center;
     margin: 20px 5px;
     display: inline-flex;
+    .skill-img {
+      width: 75px;
+      height: 75px;
+    }
+    .skill-name {
+      display: none;
+    }
   }
 }
 
