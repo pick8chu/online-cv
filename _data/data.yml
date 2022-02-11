@@ -213,36 +213,43 @@ publications:
         conference: In Proceedings of the 47th International Conference on Parallel Processing Companion, 2018
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
-      - name: Vue.js
-      - name: Javascript & jQuery
-      - name: JSP
-      - name: HTML5 & CSS
-      - name: Nexacro
+        
+        title: Frontend
+        - name: Vue.js
+        - name: Javascript & jQuery
+        - name: JSP
+        - name: HTML5 & CSS
+        - name: Nexacro
       
-      - name: python
-      - name: Java
-      - name: C
-      - name: C++
-      - name: openMP
-      - name: GO
+        title: Backend
+        - name: python
+        - name: Java
+        - name: C
+        - name: C++
+        - name: openMP
+        - name: GO
       
-      - name: Oracle
-      - name: PostgreSQL
-      - name: Firebase Realtime Database
+        title: SQL
+        - name: Oracle
+        - name: PostgreSQL
+        - name: Firebase Realtime Database
 
-      - name: Azure
+        title: Cloud
+        - name: Azure
       
-      - name: Docker
-      - name: Spring
-      - name: Spring boot
-      - name: Node.js
-      - name: FastAPI
-      - name: Firebase
+        title: Framework
+        - name: Docker
+        - name: Spring
+        - name: Spring boot
+        - name: Node.js
+        - name: FastAPI
+        - name: Firebase
       
-      - name: etc
+        title: etc
+        - name: etc
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
