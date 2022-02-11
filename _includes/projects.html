@@ -36,6 +36,14 @@
 <!--       - <span class="project-tagline">{{ project.tagline }}</span> -->
       {% endif %}
 
+      {% if project.skill %}  
+      <span class="skill-header"> Skills: </span>
+        {% for skill in projects.skill %}
+        <span class="skill-name">{{ skill.name }}</span>
+<!--       - <span class="project-tagline">{{ project.tagline }}</span> -->
+        {% endfor $}
+      {% endif %}
+
     </div><!--//item-->
   {% endfor %}
 
