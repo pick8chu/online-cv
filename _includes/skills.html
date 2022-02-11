@@ -19,7 +19,7 @@
       <div class="skill-box-container">
         {% for skill in toolset.skills %}
         <div class="skill-box">
-          <img class="skill-img" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png">
+          <img class="skill-img" src="{{ site.baseurl }}/assets/images/{{ skill.img }}" alt="skill picture" />
           <span class="skill-name"> {{ skill.name }} </span>
         </div><!--//level-bar-->
         {% endfor %}
