@@ -240,6 +240,8 @@ publications:
         link: "https://doi.org/10.1145/3229710.3229730"
         authors: Jong Wook Kim, Hyoeun Choi, and Seung-Hee Bae
         conference: In Proceedings of the 47th International Conference on Parallel Processing Companion, 2018
+        abstract: |
+            The all-pairs shortest path problem is a classic problem to study characteristics of the given graphs. Though many efficient all-pairs shortest path algorithms have been published, it is still a very expensive computing task, especially with large graph datasets. In this paper, we propose an efficient parallel all-pairs shortest path algorithm based on Peng et al.'s fast sequential algorithm on shared-memory parallel environments to achieve faster and more efficient calculation for large-scale real-world networks. Peng et al.'s algorithm needs to sort vertices with respect to their degrees. However, it turns out the original algorithm uses less efficient sorting method, which is a significant portion of parallel overhead. Therefore, we also propose an efficient parallel method to sort data within a fixed range, in order to minimize the parallel overhead in our parallel algorithm. The optimized efficient sorting method can be used for general sorting purposes. Our experimental analysis shows that our proposed parallel algorithm achieves very high parallel speedup, even hyper-linear speedup, with real-world test datasets on two different shared-memory multi-core systems.
 
 skills:
     title: Skills
