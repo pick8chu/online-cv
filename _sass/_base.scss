@@ -270,6 +270,10 @@ p {
 }
 
 .skillset {
+  /* smartphones, touchscreens */
+  @media (hover: none) and (pointer: coarse) {
+    column-count: 1;    
+  }
   column-count: 2;
   column-rule: 1px solid #ddd;
   
