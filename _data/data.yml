@@ -145,6 +145,7 @@ projects:
         tagline: |
           Developed a platform where project managers can search for their choice of individuals or companies.
           Designed the database architecture.
+          > Cheil Worldwide is the country's largest and the world's 19th largest advertising agency, by 2018 revenues, and the world's 14th creative agency network.
         skill:
         - name: JSP
         - name: Java
@@ -209,10 +210,10 @@ projects:
         role: Full stack developer
         year: Jul 2018 – May 2019
         tagline: |
-          - Multi-campus is the best Human Resource Development Company in Republic of Korea which offers education services through online to mainly companies or individuals. The goal of this project was to transform the original website to a brand new website by integrating many existing services and developing new services.
-          - Mainly worked on pages for managing contents providers’ classes and registering processes. 
+          Developed webpages for managing contents providers’ classes and registering processes. 
           - Worked on interfacing Multi-campus’ website and contents providers’ websites. 
           - **MSA(Micro Service Architecture)**, RabbitMQ
+          > Multi-campus is the best Human Resource Development Company in Republic of Korea which offers education services through online to mainly companies or individuals.
         skill:
         - name: Nexacro
         - name: Javascript
