@@ -217,59 +217,59 @@ skills:
 
     toolset:
         - title: Frontend
-          - name: Vue.js
+        - - name: Vue.js
             img: 
-          - name: Javascript & jQuery
+        - - name: Javascript & jQuery
             img: 
-          - name: JSP
+        - - name: JSP
             img: 
-          - name: HTML5 & CSS
+        - - name: HTML5 & CSS
             img: 
-          - name: Nexacro
+        - - name: Nexacro
             img: 
       
         - title: Backend
-          - name: python
+        - - name: python
             img: 
-          - name: Java
+        - - name: Java
             img: 
-          - name: C
+        - - name: C
             img: 
-          - name: C++
+        - - name: C++
             img: 
-          - name: openMP
+        - - name: openMP
             img: 
-          - name: GO
+        - - name: GO
             img: 
       
         - title: SQL
-          - name: Oracle
+        - - name: Oracle
             img: 
-          - name: PostgreSQL
+        - - name: PostgreSQL
             img: 
-          - name: Firebase Realtime Database
+        - - name: Firebase Realtime Database
             img: 
 
         - title: Cloud
-          - name: Azure
+        - - name: Azure
             img: 
       
         - title: Framework
-          - name: Docker
+        - - name: Docker
             img: 
-          - name: Spring
+        - - name: Spring
             img: 
-          - name: Spring boot
+        - - name: Spring boot
             img: 
-          - name: Node.js
+        - - name: Node.js
             img: 
-          - name: FastAPI
+        - - name: FastAPI
             img: 
-          - name: Firebase
+        - - name: Firebase
             img: 
       
         - title: etc
-          - name: etc
+        - - name: etc
             img: 
 
 footer: >
