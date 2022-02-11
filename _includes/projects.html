@@ -10,14 +10,13 @@
     {{ projects.title }}
   </h2>
 
-  {% if projects.intro %}
+<!--   {% if projects.intro %}
   <div class="intro">
       <p>{{ projects.intro }}</p>
-  </div><!--//intro-->
-  {% endif %}
+  </div>
+  {% endif %} -->
 
   {% for project in projects.assignments %}
-    <div class="separator"><hr></div>
     <div class="item">
 
       <span class="project-title">
@@ -48,6 +47,7 @@
       {% endif %}
 
     </div><!--//item-->
+    <div class="separator"><hr></div>
   {% endfor %}
 
 </section><!--//section-->
