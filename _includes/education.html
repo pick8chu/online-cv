@@ -12,6 +12,10 @@
       <h4 class="degree">{{ graduation.degree }}</h4>
       <h5 class="meta">{{ graduation.university }}</h5>
       <div class="time">{{ graduation.time }}</div>
+      <div class="gpa">GPA {{ graduation.gpa }}</div>
+      {% if graduation.major %}
+      <div class="major-gpa">Major {{ graduation.major }}</div>
+      {% endif %}
     </div><!--//item-->
     {% endfor %}
 
