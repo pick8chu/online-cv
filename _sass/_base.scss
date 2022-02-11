@@ -282,18 +282,6 @@ p {
     height: 12px;
     background: lighten($theme-color, 15%);
   }
-  .skill {
-    display: inline-block;
-    border: 1px solid #545E6C;
-    border-radius: 1em;
-    padding: 0 10px 0 10px;
-    line-height: 24px;
-    font-size: 12px;
-    /* text-decoration: none; */
-    margin: 0 1px;
-    margin-bottom: 6px;
-    /* cursor: pointer;
-  }
   .skill-box {
     width: 100px;
     height: 100px;
@@ -313,6 +301,18 @@ p {
       display: none;
     }
   }
+}
+
+
+.skill-name {
+  display: inline-block;
+  border: 1px solid #545E6C;
+  border-radius: 1em;
+  padding: 0 10px 0 10px;
+  line-height: 24px;
+  font-size: 12px;
+  margin: 0 1px;
+  margin-bottom: 6px;
 }
 
 .footer {
