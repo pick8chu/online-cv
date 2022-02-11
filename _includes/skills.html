@@ -16,12 +16,14 @@
     <div class="skillset-div">
       <h3 class="skillset-title">{{ toolset.title }}</h3>
       
-      {% for skill in toolset.skills %}
-      <div class="skill-box">
-        <img src=""/>
-        <span class="skill-name"> {{ skill.name }} </span>
-      </div><!--//level-bar-->
-      {% endfor %}
+      <div class="skill-box-container">
+        {% for skill in toolset.skills %}
+        <div class="skill-box">
+          <img src=""/>
+          <span class="skill-name"> {{ skill.name }} </span>
+        </div><!--//level-bar-->
+        {% endfor %}
+      </div>
 
     </div><!--//item-->
     {% endfor %}
