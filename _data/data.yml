@@ -216,7 +216,7 @@ skills:
     title: Skills
 
     toolset:
-        title: Frontend
+        - title: Frontend
           - name: Vue.js
             img: 
           - name: Javascript & jQuery
@@ -229,7 +229,7 @@ skills:
             img: 
       
 
-        title: Backend
+        - title: Backend
           - name: python
             img: 
           - name: Java
@@ -243,7 +243,7 @@ skills:
           - name: GO
             img: 
       
-        title: SQL
+        - title: SQL
           - name: Oracle
             img: 
           - name: PostgreSQL
@@ -251,11 +251,11 @@ skills:
           - name: Firebase Realtime Database
             img: 
 
-        title: Cloud
+        - title: Cloud
           - name: Azure
             img: 
       
-        title: Framework
+        - title: Framework
           - name: Docker
             img: 
           - name: Spring
@@ -269,7 +269,7 @@ skills:
           - name: Firebase
             img: 
       
-        title: etc
+        - title: etc
           - name: etc
             img: 
 
