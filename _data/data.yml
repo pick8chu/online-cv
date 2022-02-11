@@ -216,60 +216,61 @@ skills:
     title: Skills
 
     toolset:
-        - title: Frontend
-        - - name: Vue.js
+        title: Frontend
+          - name: Vue.js
             img: 
-        - - name: Javascript & jQuery
+          - name: Javascript & jQuery
             img: 
-        - - name: JSP
+          - name: JSP
             img: 
-        - - name: HTML5 & CSS
+          - name: HTML5 & CSS
             img: 
-        - - name: Nexacro
-            img: 
-      
-        - title: Backend
-        - - name: python
-            img: 
-        - - name: Java
-            img: 
-        - - name: C
-            img: 
-        - - name: C++
-            img: 
-        - - name: openMP
-            img: 
-        - - name: GO
+          - name: Nexacro
             img: 
       
-        - title: SQL
-        - - name: Oracle
+
+        title: Backend
+          - name: python
             img: 
-        - - name: PostgreSQL
+          - name: Java
             img: 
-        - - name: Firebase Realtime Database
+          - name: C
+            img: 
+          - name: C++
+            img: 
+          - name: openMP
+            img: 
+          - name: GO
+            img: 
+      
+        title: SQL
+          - name: Oracle
+            img: 
+          - name: PostgreSQL
+            img: 
+          - name: Firebase Realtime Database
             img: 
 
-        - title: Cloud
-        - - name: Azure
+        title: Cloud
+          - name: Azure
             img: 
       
-        - title: Framework
-        - - name: Docker
+        title: Framework
+          - name: Docker
             img: 
-        - - name: Spring
+          - name: Spring
             img: 
-        - - name: Spring boot
+          - name: Spring boot
             img: 
-        - - name: Node.js
+          - name: Node.js
             img: 
-        - - name: FastAPI
+          - name: FastAPI
             img: 
-        - - name: Firebase
+          - name: Firebase
             img: 
       
-        - title: etc
-        - - name: etc
+        title: etc
+          - name: etc
             img: 
 
 footer: >
