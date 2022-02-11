@@ -72,6 +72,7 @@ career-profile:
       an exchange student. Worked as a researching intern for 6 months at Western Michigan 
       University in Kalamazoo, MI, and wrote a paper titled, “Efficient Parallel All-Pairs Shortest 
       Paths Algorithm for Complex Graph Analysis,” which was accepted in ICPP’18. 
+      <br/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Currently working at Samsung SDS as a **software engineer - full stack
       engineer/project leader**. Mostly used Vue.js, Java, python, Oracle, etc. Experienced more 
       than 7 projects with the best companies of various domain in Korea, such as Multi-campus, 
@@ -209,14 +210,16 @@ projects:
         year: Jul 2018 – May 2019
         tagline: |
           - Multi-campus is the best Human Resource Development Company in Republic of Korea which offers education services through online to mainly companies or individuals. The goal of this project was to transform the original website to a brand new website by integrating many existing services and developing new services.
-          - Participated as a front and back-end developer. 
           - Mainly worked on pages for managing contents providers’ classes and registering processes. 
           - Worked on interfacing Multi-campus’ website and contents providers’ websites. 
+          - **MSA(Micro Service Architecture)**, RabbitMQ
         skill:
-        - name: Vue.js
+        - name: Nexacro
+        - name: Javascript
         - name: Java
-        - name: Azure
-        - name: CosmosDB
+        - name: Spring
+        - name: Oracle
+        - name: myBatis
         
       - title: Researching Intern
         role: Researching Intern
