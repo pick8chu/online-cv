@@ -142,52 +142,68 @@ projects:
         role: Project Leader/Developer Leader
         year: July 2021 – Dec 2021
         tagline: |
-          - Developed a platform where project managers can search for their choice of individuals or companies.
-          - Took a part as a project leader.
+          Developed a platform where project managers can search for their choice of individuals or companies.
+          Designed the database architecture.
+        skill:
+        - name: JSP
+        - name: Java
+        - name: Spring
+        - name: Oracle
+        - name: myBatis
 
       - title: Samsung SDS talent matching system project
         role: Full stack developer
         year: Jul 2020 – Jun 2021
         tagline: |
-          - Developed an internal talent matching system targeted to allow employees to apply for specific projects based on certain preferences. 
-          - For the front-end, Vue.js, and for the back-end, Java with Spring and PostgreSQL with myBatis were used.
+          Developed an internal talent matching system targeted to allow employees to apply for specific projects based on certain preferences. 
+          Designed the database architecture.
+          - **MSA(Micro Service Architecture)**, RabbitMQ
+        skill:
+        - name: Vue.js
+        - name: Java
+        - name: Spring
+        - name: PostgreSQL
+        - name: myBatis
+        - name: RabbitMQ
 
       - title: Shareholders Meeting system project
         role: Full stack developer
         year: Jan 2020 – Jul 2020
         tagline: |
-          - Developed a Samsung Corporation’s shareholders meeting system.
-          - For the front-end, Vue.js, and for the back-end, Java with Spring and Oracle with myBatis were used.
+          Developed a Samsung Corporation’s shareholders meeting system.
+        skill:
+        - name: Vue.js
+        - name: Java
+        - name: Spring
+        - name: Oracle
+        - name: myBatis
 
       - title: Implementing Facility Lifecycle Management System in Samsung Electronics Hungary
-        role: Full stack developer
-        year: Jul 2020 – Jun 2021
-        tagline: |
-          - Developed an internal talent matching system targeted to allow employees to apply for specific projects based on certain preferences. 
-          - For the front-end, Vue.js, and for the back-end, Java with Spring and PostgreSQL with myBatis were used.
-
-      - title: Samsung SDS talent matching system project
         role: Project Leader
         year: Nov 2019 – Dec 2019
         tagline: |
-          - Implemented a new system called Facility Lifecycle Management system in Samsung Electronics in Hungary.
-          - Gathered every data of the factory and put them into the system by managing employees and trained them to be able to use the system.
+          Implemented a new system called Facility Lifecycle Management System in Samsung Electronics in Hungary.
+          - Gathered every data of the facilities in the factory and migrate them into the system and trained local employees to use the system.
 
       - title: S1 Next Generation Project
         role: Full stack developer
         year: Sep 2019 – Oct 2019
         tagline: |
-          - S1 is a security company which provides total security solution for schools, banks, houses, etc. by enhancing stability of system security business and building solutions.
-          - Used Azure, CosmosDB, java and Vue.js
-          - Mainly focused on making an algorithm of an interface service to connect separated system using java.
+          Implemented an inner algorithm of security alert system.
+          > S1 is a security company which provides total security solution for schools, banks, houses, etc. by enhancing stability of system security business and building solutions.
+        skill:
+        - name: Vue.js
+        - name: Java
+        - name: Azure
+        - name: CosmosDB
 
       - title: Implementing Facility Lifecycle Management System in Samsung Electronics Indonesia
         role: Project Leader
         year: Nov 2019 – Dec 2019
         tagline: |
-          - Implemented a new system called Facility Lifecycle Management system in Samsung Electronics in Indonesia.
-          - Gathered every data of the factory and put them into the system by managing employees and trained them to be able to use the system.
-
+          Implemented a new system called Facility Lifecycle Management System in Samsung Electronics in Indonesia.
+          - Gathered every data of the facilities in the factory and migrate them into the system and trained local employees to use the system.
+          
       - title: Multi-campus Next Generation Project
         role: Full stack developer
         year: Jul 2018 – May 2019
@@ -196,12 +212,20 @@ projects:
           - Participated as a front and back-end developer. 
           - Mainly worked on pages for managing contents providers’ classes and registering processes. 
           - Worked on interfacing Multi-campus’ website and contents providers’ websites. 
-
+        skill:
+        - name: Vue.js
+        - name: Java
+        - name: Azure
+        - name: CosmosDB
+        
       - title: Researching Intern
         role: Researching Intern
         year: Aug 2017 - Feb 2018
         tagline: |
           - Published a paper, “Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis”, and accepted by ICPP’18, Proceedings of the 47th International Conference on Parallel Processing Companion.
+        skill:   
+        - name: openMP
+        - name: parallel computing
 
 publications:
     title: Publications
@@ -277,11 +301,17 @@ skills:
             img: 
           - name: Firebase
             img: 
-      
-        - title: etc
-          skills:
-          - name: etc
+          - name: Jenkins
             img: 
+          - name: SonarQube
+            img: 
+          - name: git
+            img: 
+      
+        - title: and More to come!
+#           skills:
+#           - name: etc
+#             img: 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
