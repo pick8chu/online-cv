@@ -217,6 +217,7 @@ skills:
 
     toolset:
         - title: Frontend
+          skills:
           - name: Vue.js
             img: 
           - name: Javascript & jQuery
@@ -230,6 +231,7 @@ skills:
       
 
         - title: Backend
+          skills:
           - name: python
             img: 
           - name: Java
@@ -252,10 +254,12 @@ skills:
             img: 
 
         - title: Cloud
+          skills:
           - name: Azure
             img: 
       
         - title: Framework
+          skills:
           - name: Docker
             img: 
           - name: Spring
@@ -270,6 +274,7 @@ skills:
             img: 
       
         - title: etc
+          skills:
           - name: etc
             img: 
 
