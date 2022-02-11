@@ -9,6 +9,11 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+hr {
+  width: 95%;
+  border-top: 1px solid #ddd;
+}
+
 h1,
 h2,
 h3,
@@ -266,9 +271,15 @@ p {
 
 .skillset {
   column-count: 2;
-  .skillset-div{
+  column-rule: 1px solid #ddd;
+  
+  .skillset-div {
+    padding: 0 10px 0 10px;
     margin: 0 0 20px 0;
     white-space: normal;
+    .skillset-title {
+      margin-top: 0;
+    }
   }
   .item {
     margin-bottom: 15px;
