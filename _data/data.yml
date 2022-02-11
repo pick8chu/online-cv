@@ -219,13 +219,17 @@ skills:
         - title: Frontend
           skills:
           - name: Vue.js
-            img: 
-          - name: Javascript & jQuery
-            img: 
+            img: vue.png
+          - name: Javascript
+            img: js.jpg
+          - name: jQuery
+            img: jquery.jpg
           - name: JSP
-            img: 
-          - name: HTML5 & CSS
-            img: 
+            img: jsp.png
+          - name: HTML
+            img: html.png
+          - name: CSS
+            img: css.jpg
           - name: Nexacro
             img: 
       
