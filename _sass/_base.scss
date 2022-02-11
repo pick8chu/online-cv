@@ -190,6 +190,16 @@ p {
     overflow: hidden;
     margin-bottom: 2px;
   }
+  .meta {
+    display: flex;
+    justify-content: space-between;
+  }
+  .company-img {
+    height: 48px;
+  }
+  .expeience-header {
+    width: 90%;
+  }
   .job-title,
   .degree {
     color: $text-color;
