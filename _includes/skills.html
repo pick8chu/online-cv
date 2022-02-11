@@ -18,12 +18,15 @@
       
       <div class="skill-box-container">
         {% for skill in toolset.skills %}
-        <div class="skill-box">
+        <span class="skill">{{ skill.name }}</span>
+<!--    with image     -->
+<!--         <div class="skill-box">
           <div class="skill-img-div">
             <img class="skill-img" src="{{ site.baseurl }}/assets/images/{{ skill.img }}" alt="skill picture" />
           </div>
           <span class="skill-name"> {{ skill.name }} </span>
-        </div><!--//level-bar-->
+        </div>
+-->
         {% endfor %}
       </div>
 
