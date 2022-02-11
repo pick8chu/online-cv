@@ -13,14 +13,17 @@
   <div class="item">
 
     <div class="meta">
+      {% if experience.img %}
+      <img class="company-img" src="{{ site.baseurl }}/assets/images/{{ experience.img }}" alt="company picture" />
+      {% endif %}
+      <div class="expeience-header">
+        <div class="upper-row">
+          <h3 class="job-title">{{ experience.role }}</h3>
+          <div class="time">{{ experience.time }}</div>
+        </div><!--//upper-row-->
 
-      <div class="upper-row">
-        <h3 class="job-title">{{ experience.role }}</h3>
-        <div class="time">{{ experience.time }}</div>
-      </div><!--//upper-row-->
-
-      <div class="company">{{ experience.company }}</div>
-
+        <div class="company">{{ experience.company }}</div>
+      </div>
     </div><!--//meta-->
 
     {% if experience.details %}
