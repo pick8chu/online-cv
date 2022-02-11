@@ -106,6 +106,7 @@ experiences:
     - role: Software Engineer
       time: Jul 2018 - Present
       company: Samsung SDS, South Korea
+      img: samsungsds.png
       details: |
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Working as a full-stack engineer/project leader. Mostly used Vue.js, Java, python, Oracle, etc. 
         Experienced more than 7 projects with the best companies of various domain in Korea, 
@@ -114,6 +115,7 @@ experiences:
     - role: Researching intern
       time: Aug 2017 - Feb 2018
       company: Western Michigan University, U.S.A.
+      img: wmu.png
       details: |
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Worked as a researching intern for 6 months at Western Michigan University in Kalamazoo, MI. 
         Wrote a paper titled, “Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis," which was accepted in ICPP'18. 
@@ -124,6 +126,7 @@ experiences:
         Association for Computing Machinery, New York, NY, USA, Article 5, 1-10. DOI:[https://doi.org/10.1145/3229710.3229730](https://doi.org/10.1145/3229710.3229730)*
     - role: Artilleryman
       time: Jan 2013 - Oct 2014
+      img: roka.jpg
       company: Republic of Korea Army, South Korea
       details: |
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Served in the ROK for 19 months as an Artilleryman. Served as a squad leader for more than 10 months.
