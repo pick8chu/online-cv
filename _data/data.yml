@@ -246,6 +246,7 @@ skills:
             img: 
       
         - title: SQL
+          skills:
           - name: Oracle
             img: 
           - name: PostgreSQL
