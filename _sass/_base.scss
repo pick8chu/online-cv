@@ -281,7 +281,7 @@ p {
 
 .skillset {
   /* smartphones, touchscreens */
-  @media (hover: none) and (pointer: coarse) {
+  @media (min-width: 650px) {
     column-count: 1;    
   }
   column-count: 2;
