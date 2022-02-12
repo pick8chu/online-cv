@@ -280,11 +280,10 @@ p {
 }
 
 .skillset {
-  /* smartphones, touchscreens */
-  @media (min-width: 650px) {
-    column-count: 1;    
+  @media (min-width: 764px) {
+    column-count: 2;    
   }
-  column-count: 2;
+  column-count: 1;
   column-rule: 1px solid #ddd;
   
   .skillset-div {
