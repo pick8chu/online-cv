@@ -7,7 +7,7 @@
        font-size: 12pt;
     }
 
-    img.avatar img.company-img {
+    img.avatar, img.company-img {
         filter: grayscale(1);
         -webkit-filter: greyscale(1);
     }
