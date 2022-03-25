@@ -263,6 +263,8 @@ skills:
             img: css.jpg
           - name: Nexacro
             img: 
+          - name: Typescript
+            img: 
       
 
         - title: Backend
