@@ -35,6 +35,11 @@
        background-color: black !important;
        -webkit-print-color-adjust: exact; 
     }
+    
+    .skillset {
+      column-count: 2;
+      column-rule: 1px solid #ddd;
+    }
 
    .fa-inverse,
    .fa-inverse:after,
