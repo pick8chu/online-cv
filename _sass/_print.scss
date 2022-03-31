@@ -22,7 +22,14 @@
         width: 40%;
         -webkit-print-color-adjust: exact; 
     }
-
+      
+      .sidebar-wrapper .name {
+          font-size: 30px;
+          font-weight: 900;
+          margin-top: 0;
+          margin-bottom: 10px;
+      }
+      
     .remove-container.container-block {
        display: none;
     }
