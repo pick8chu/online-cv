@@ -8,8 +8,8 @@
     }
 
     img.avatar, img.company-img {
-        filter: grayscale(1);
-        -webkit-filter: greyscale(1);
+//         filter: grayscale(1);
+//         -webkit-filter: greyscale(1);
     }
    .main-wrapper .time {
        float: right;
@@ -32,7 +32,7 @@
     }
 
     .skillset .level-bar-inner {
-       background-color: black !important;
+//        background-color: black !important;
        -webkit-print-color-adjust: exact; 
     }
     
@@ -41,10 +41,10 @@
       column-rule: 1px solid #ddd;
     }
 
-   .fa-inverse,
-   .fa-inverse:after,
-   .fa-inverse:before {
-     color: #ffffff !important;
-   }
+//    .fa-inverse,
+//    .fa-inverse:after,
+//    .fa-inverse:before {
+//      color: #ffffff !important;
+//    }
 
 }
