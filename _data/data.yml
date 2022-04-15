@@ -144,7 +144,7 @@ projects:
         year: July 2021 – Dec 2021
         tagline: |
           Developed a platform where project managers can search for their choice of individuals or companies.
-          Designed the database architecture.
+          Designed structures and relations among tables in the database.
           > Cheil Worldwide is the country's largest and the world's 19th largest advertising agency, by 2018 revenues, and the world's 14th creative agency network.
         skill:
         - name: JSP
