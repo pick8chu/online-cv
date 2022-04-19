@@ -17,7 +17,7 @@
         -webkit-print-color-adjust: exact; 
    }
    .main-wrapper {
-      padding-right: 20px
+      padding-right: 20px !important;
    }
     .sidebar-wrapper {
         position: static;
@@ -26,6 +26,7 @@
         -webkit-print-color-adjust: exact; 
 //         border-left: solid;
         background: #D3D3D3 !important;
+        color: white !important;
     }
       
       .sidebar-wrapper .name {
