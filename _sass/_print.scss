@@ -16,13 +16,16 @@
         color: black !important;
         -webkit-print-color-adjust: exact; 
    }
+   .main-wrapper {
+      padding-right: 20px
+   }
     .sidebar-wrapper {
         position: static;
         float: right;
         width: 40%;
         -webkit-print-color-adjust: exact; 
 //         border-left: solid;
-        background: #31708f !important;
+        background: #D3D3D3 !important;
     }
       
       .sidebar-wrapper .name {
