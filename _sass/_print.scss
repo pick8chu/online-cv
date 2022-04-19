@@ -20,8 +20,9 @@
         position: static;
         float: right;
         width: 40%;
-//         -webkit-print-color-adjust: exact; 
-        background: #31708f;
+        -webkit-print-color-adjust: exact; 
+        border-left: solid;
+//         background: #31708f;
     }
       
       .sidebar-wrapper .name {
