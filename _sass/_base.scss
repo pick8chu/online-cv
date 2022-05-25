@@ -71,7 +71,11 @@ p {
     padding: 20px 10px 0px 20px;
     background: hwb(212deg 1% 37% / 20%);
     text-align: right;
-    height: 510px;
+    height: 360px;
+    @media (min-width: 764px) {
+      height: 510px; 
+      text-align: center;
+    }
   }
   .name {
     font-size: 40px;
@@ -101,6 +105,9 @@ p {
     border: 0px solid #fff;
     border-radius: 100%;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 10%);
+    @media (min-width: 764px) {
+      max-width: 200px;
+    }
   }
   .contact-list {
     .fas,
@@ -194,12 +201,20 @@ p {
     position: relative;
     margin-top: 0;
     margin-bottom: 20px;
+    @media (max-width: 764px) {
+      background: rgb(111, 141, 179);
+      margin-right: 35%;
+      border-radius: 50px;
+    }
 //     background: rgb(111, 141, 179);
 //     margin-right: 35%;
 //     border-radius: 50px;
     .title {
 //       color: white;
       padding-top: 7px;
+      @media (max-width: 764px) {
+        color: white;
+      }
     }
   }
   .section {
