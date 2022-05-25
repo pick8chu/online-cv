@@ -1,6 +1,6 @@
 /* ======= Base ======= */
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: "arial", sans-serif;
   color: $text-color-secondary;
   background: $smoky-white;
   font-size: 14px;
@@ -44,6 +44,12 @@ p {
   line-height: 1.5;
 }
 
+blockquote {
+    padding: 5px 20px;
+    font-size: 15px;
+    color: #aaa;
+}
+
 .wrapper {
   display: grid;
   grid-template-columns: repeat(10, 1fr);
@@ -56,28 +62,32 @@ p {
 
 .sidebar-wrapper {
   grid-column: span 3;
-  order: 2;
+  order: 0;
   background: $theme-color;
   color: #fff;
   a {
-    color: #fff;
+    color: #005180;
+    font-size: 17px;
+  }
+  li {
+    line-height: 10px;
   }
   .profile-container {
-    padding: 30px;
-    //background: darken($theme-color, 10%);
-    background: rgba(0, 0, 0, 0.2);
-    text-align: center;
-    color: #fff;
+    padding: 20px 10px 0px 20px;
+    background: hwb(212deg 1% 37% / 20%);
+    text-align: right;
+    height: 510px;
   }
   .name {
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 900;
     margin-top: 0;
     margin-bottom: 10px;
+    color: #005180;
   }
   .tagline {
-    color: rgba(256, 256, 256, 0.6);
-    font-size: 16px;
+    font-size: 24px;
+    line-height: 0px;
     font-weight: 400;
     margin-top: 0;
     margin-bottom: 0;
@@ -113,17 +123,19 @@ p {
     }
   }
   .container-block {
-    padding: 30px;
+    background: hwb(212deg 1% 37% / 5%);
+    padding: 10px 10px 10px 30px;
+    margin: 20px 0px 0px 0px;
   }
   .container-block-title {
     text-transform: uppercase;
-    font-size: 16px;
+    font-size: 22px;
     font-weight: 700;
     margin-top: 0;
     margin-bottom: 15px;
   }
   .degree {
-    font-size: 14px;
+    font-size: 16px;
     margin-top: 0;
     margin-bottom: 5px;
   }
@@ -135,20 +147,21 @@ p {
       }
     }
     .meta {
-      color: rgba(256, 256, 256, 0.6);
+      font-size: 16px;
+      color: rgb(0 0 0 / 60%);
       font-weight: 500;
       margin-bottom: 0px;
       margin-top: 0;
     }
     .time {
-      color: rgba(256, 256, 256, 0.6);
+      color: rgba(0, 0, 0, 0.6);
       font-weight: 500;
       margin-bottom: 0px;
     }
   }
   .languages-container {
     .lang-desc {
-      color: rgba(256, 256, 256, 0.6);
+      color: rgba(0, 0, 0, 0.6);
     }
   }
 
@@ -176,7 +189,7 @@ p {
 .main-wrapper {
   grid-column: span 7;
   background: #fff;
-  padding: 60px;
+  padding: 120px 30px 60px 30px;
   .section-title {
     text-transform: uppercase;
     font-size: 20px;
@@ -213,8 +226,8 @@ p {
   }
   .job-title,
   .degree {
-    color: $text-color;
-    font-size: 16px;
+    color: #3F4650;
+    font-size: 26px;
     margin-top: 0;
     margin-bottom: 0;
     font-weight: 500;
@@ -292,7 +305,7 @@ p {
     white-space: normal;
     .skillset-title {
       margin-top: 0;
-      font-size: medium;
+      font-size: 20px;
     }
   }
   .item {
@@ -341,7 +354,7 @@ p {
   border-radius: 1em;
   padding: 0 10px 0 10px;
   line-height: 24px;
-  font-size: 12px;
+  font-size: 15px;
   margin: 0 1px;
   margin-bottom: 6px;
 }
