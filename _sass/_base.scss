@@ -16,7 +16,7 @@ hr {
 
 blockquote {
   padding: 5px 20px;
-  font-size: 12px;
+  font-size: 15px;
   color: #aaa;
 }
   
@@ -44,16 +44,10 @@ p {
   line-height: 1.5;
 }
 
-blockquote {
-    padding: 5px 20px;
-    font-size: 15px;
-    color: #aaa;
-}
-
 .wrapper {
   display: grid;
   grid-template-columns: repeat(10, 1fr);
-  background: $theme-color;
+//   background: $theme-color;
   max-width: 1000px;
   margin: 0 auto;
   position: relative;
@@ -63,8 +57,8 @@ blockquote {
 .sidebar-wrapper {
   grid-column: span 3;
   order: 0;
-  background: $theme-color;
-  color: #fff;
+//   background: $theme-color;
+  color: black;
   a {
     color: #005180;
     font-size: 17px;
@@ -101,11 +95,11 @@ blockquote {
 
   .avatar {
     //used for profile image
-    max-width: 100px;
+    max-width: 300px;
     margin-bottom: 15px;
     border: 0px solid #fff;
     border-radius: 100%;
-    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
   }
   .contact-list {
     .fas,
