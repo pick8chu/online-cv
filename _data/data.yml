@@ -154,7 +154,7 @@ projects:
         - name: myBatis
 
       - title: Samsung SDS talent matching system project
-        role: Full stack developer
+        role: Full Stack Developer
         year: Jul 2020 – Jun 2021
         tagline: |
           Developed an internal talent matching system targeted to allow employees to apply for specific projects based on certain preferences. 
@@ -169,7 +169,7 @@ projects:
         - name: RabbitMQ
 
       - title: Shareholders Meeting system project
-        role: Full stack developer
+        role: Full Stack Developer
         year: Jan 2020 – Jul 2020
         tagline: |
           Developed a Samsung Corporation’s shareholders meeting system.
@@ -188,7 +188,7 @@ projects:
           - Gathered every data of the facilities in the factory and migrate them into the system and trained local employees to use the system.
 
       - title: S1 Next Generation Project
-        role: Full stack developer
+        role: Full Stack Developer
         year: Sep 2019 – Oct 2019
         tagline: |
           Implemented an inner algorithm of security alert system.
@@ -207,7 +207,7 @@ projects:
           - Gathered every data of the facilities in the factory and migrate them into the system and trained local employees to use the system.
           
       - title: Multi-campus Next Generation Project
-        role: Full stack developer
+        role: Full Stack Developer
         year: Jul 2018 – May 2019
         tagline: |
           Developed webpages for managing contents providers’ classes and registering processes. 
