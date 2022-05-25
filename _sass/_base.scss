@@ -197,7 +197,10 @@ p {
     background: rgb(111, 141, 179);
     margin-right: 35%;
     border-radius: 50px;
-
+    .title {
+      color: white;
+      padding-top: 7px;
+    }
   }
   .section {
     margin-bottom: 60px;
