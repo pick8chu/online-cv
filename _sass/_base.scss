@@ -72,9 +72,9 @@ p {
     background: hwb(212deg 1% 37% / 20%);
     text-align: right;
     height: 360px;
+    text-align: center;
     @media (min-width: 764px) {
       height: 510px; 
-      text-align: center;
     }
   }
   .name {
@@ -105,7 +105,7 @@ p {
     border: 0px solid #fff;
     border-radius: 100%;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 10%);
-    @media (min-width: 764px) {
+    @media (max-width: 764px) {
       max-width: 200px;
     }
   }
