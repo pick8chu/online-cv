@@ -252,9 +252,8 @@ p {
     margin-bottom: 10px;
     color: #97AAC3;
     text-align: right;
-    
-    .project-position {
-      text-align: left;
+    @media (max-width: 764px) {
+      flex-direction: column;
     }
   }
 
@@ -356,5 +355,9 @@ p {
 
   .fa-heart {
     color: $heart;
+  }
+  
+  .text-align-left {
+    text-align: left;
   }
 }
