@@ -74,7 +74,8 @@ p {
     height: 360px;
     text-align: center;
     @media (min-width: 764px) {
-      height: 510px; 
+      height: 510px;
+      text-align: right;
     }
   }
   .name {
