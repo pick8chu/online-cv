@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Jong Wook Kim
     tagline: Software Engineer<br/>
-    under_position: Full Stack Developer/Project Leader
+    under_position: Server Engineer/Project Leader
     avatar: profile1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -73,11 +73,11 @@ career-profile:
       University in Kalamazoo, MI, and wrote a paper titled, “Efficient Parallel All-Pairs Shortest 
       Paths Algorithm for Complex Graph Analysis,” which was accepted in ICPP’18. 
       <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Currently working at Samsung SDS as a **software engineer - full stack
-      engineer/project leader**. Mostly used Vue.js, Java, python, Oracle, etc. Experienced more 
-      than 7 projects with the best companies of various domain in Korea, such as Multi-campus, 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Currently working at Samsung SDS as a **software engineer - server
+      engineer(/frontend engineer when lack of people)/project leader**. Mostly used Java, Spring, Spring boot, python, Oracle, Postgres, Vue.js, etc. Participated in 
+      more than 7 projects with the one of the biggest companies of various domain in Korea, such as Multi-campus, 
       S1, Samsung cooperation and Cheil worldwide, etc. Have experience with Macro-service 
-      architect and Cloud environments (Azure). Given the 3+ years System Integration 
+      architect and Cloud environments (AWS, Azure) with Dockers. Given the 3+ years System Integration 
       experiences, very confident in learning new languages or frameworks in no time.
 
 education:
@@ -112,10 +112,11 @@ experiences:
       company: Samsung SDS, South Korea
       img: samsungsds.png
       details: |
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Working as a full-stack engineer/project leader. Mostly used Vue.js, Java, python, Oracle, etc. 
-        Experienced more than 7 projects with the best companies of various domain in Korea, 
-        such as Multi-campus, S1, Samsung cooperation and Cheil worldwide, etc. 
-        Have experience with Macro-service architect. Have experience with Cloud environments (Azure).
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Working as a server engineer(/frontend engineer when lack of people)/project leader. Mostly used Java, Spring, Spring boot, python, Oracle, Postgres, Vue.js, etc. 
+        Mainly working in a System Integration field, therefore highly adaptable in new system, langagues or framework.
+        Participated in more than 7 projects with the one of the biggest companies of various domain in Korea, such as Multi-campus, 
+        S1, Samsung cooperation and Cheil worldwide, etc. 
+        Have experience with Macro-service architect, also with Cloud environments (AWS, Azure) and Dockers.
     - role: Researching intern
       time: Aug 2017 - Feb 2018
       company: Western Michigan University, U.S.A.
@@ -140,45 +141,45 @@ projects:
       Projects from Samsung SDS were mostly B2B, therefore, it wouldn't be visible to public. Thank you for your understading.
     assignments:
       - title: Cheil Worldwide credential DB & open platform system project
-        role: Project Leader/Developer Leader
+        role: Project Leader/Development Leader
         year: July 2021 – Dec 2021
         tagline: |
           Developed a platform where project managers can search for their choice of individuals or companies.
           Designed structures and relations among tables in the database.
           > Cheil Worldwide is the country's largest and the world's 19th largest advertising agency, by 2018 revenues, and the world's 14th creative agency network.
         skill:
-        - name: JSP
         - name: Java
         - name: Spring
         - name: Oracle
         - name: myBatis
+        - name: JSP
 
       - title: Samsung SDS talent matching system project
-        role: Full Stack Developer
+        role: Server Engineer
         year: Jul 2020 – Jun 2021
         tagline: |
           Developed an internal talent matching system targeted to allow employees to apply for specific projects based on certain preferences. 
-          Designed the database architecture.
+          Designed the table relations.
           - **MSA(Micro Service Architecture)**, RabbitMQ
         skill:
-        - name: Vue.js
-        - name: Java
         - name: Spring
         - name: PostgreSQL
         - name: myBatis
         - name: RabbitMQ
+        - name: Vue.js
+        - name: Java
 
       - title: Shareholders Meeting system project
-        role: Full Stack Developer
+        role: Server Engineer
         year: Jan 2020 – Jul 2020
         tagline: |
           Developed a Samsung Corporation’s shareholders meeting system.
         skill:
-        - name: Vue.js
         - name: Java
         - name: Spring
         - name: Oracle
         - name: myBatis
+        - name: Vue.js
 
       - title: Implementing Facility Lifecycle Management System in Samsung Electronics Hungary
         role: Project Leader
@@ -188,16 +189,16 @@ projects:
           - Gathered every data of the facilities in the factory and migrate them into the system and trained local employees to use the system.
 
       - title: S1 Next Generation Project
-        role: Full Stack Developer
+        role: Server Engineer
         year: Sep 2019 – Oct 2019
         tagline: |
           Implemented an inner algorithm of security alert system.
           > S1 is a security company which provides total security solution for schools, banks, houses, etc. by enhancing stability of system security business and building solutions.
         skill:
-        - name: Vue.js
         - name: Java
         - name: Azure
         - name: CosmosDB
+        - name: Vue.js
 
       - title: Implementing Facility Lifecycle Management System in Samsung Electronics Indonesia
         role: Project Leader
@@ -207,7 +208,7 @@ projects:
           - Gathered every data of the facilities in the factory and migrate them into the system and trained local employees to use the system.
           
       - title: Multi-campus Next Generation Project
-        role: Full Stack Developer
+        role: Server Engineer
         year: Jul 2018 – May 2019
         tagline: |
           Developed webpages for managing contents providers’ classes and registering processes. 
@@ -216,12 +217,12 @@ projects:
           
           > Multi-campus is the best Human Resource Development Company in Republic of Korea which offers education services through online to mainly companies or individuals.
         skill:
-        - name: Nexacro
-        - name: Javascript
         - name: Java
         - name: Spring
         - name: Oracle
         - name: myBatis
+        - name: Nexacro
+        - name: Javascript
         
       - title: Researching Intern
         role: Researching Intern
