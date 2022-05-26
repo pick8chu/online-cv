@@ -27,8 +27,12 @@
         {% endif %}
       </span>
       <div class="project-sub">
-        <span class="project-position"> {{ project.role }} </span>
-        <span> {{ project.year }} </span> 
+        <div class="project-position-div text-align-left">
+          <span class="project-position"> {{ project.role }} </span>
+        </div>
+        <div>
+          <span> {{ project.year }} </span> 
+        </div>
       </div>
 
       {% if project.tagline %}  
