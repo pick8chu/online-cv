@@ -285,11 +285,14 @@ p {
     margin-bottom: 10px;
     color: #97AAC3;
     text-align: right;
-    
+    @media (max-width: 764px) {
+      flex-direction: column;
+    }
     .project-position {
       text-align: left;
       background: rgba(205, 219, 236, 35%);
       padding: 3px;
+      
     }
   }
 
@@ -391,5 +394,9 @@ p {
 
   .fa-heart {
     color: $heart;
+  }
+  
+  .text-align-left {
+    text-align: left;
   }
 }
