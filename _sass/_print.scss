@@ -6,7 +6,7 @@
     body {
        font-size: 12pt;
     }
-
+      
     img.avatar, img.company-img {
 //         filter: grayscale(1);
 //         -webkit-filter: greyscale(1);
@@ -30,15 +30,19 @@
 //       margin-left: 20px;   
 //         border-left: solid;
 //         background: #D3D3D3 !important;
-      .li {
-          line-height: 20px;
-      }
+       
+       .profile-container{
+         padding-bottom: 40px;
+       }
     }
       
       .sidebar-wrapper .name {
           font-size: 28px;
       }
       
+      .sidebar-wrapper li {
+          line-height: 20px;
+      }
     .remove-container.container-block {
 //        display: none;
     }
