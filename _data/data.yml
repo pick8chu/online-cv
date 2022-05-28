@@ -84,7 +84,7 @@ education:
     - degree: BSc in Computer Science
       university: Handong Global University
       time: 2012 - 2018
-      gpa: 3.51 / 4.50
+#       gpa: 3.51 / 4.50
       major: 4.01 / 4.50
       details: |
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -260,42 +260,34 @@ skills:
     title: Skills
 
     toolset:
-        - title: Frontend
+        - title: Languages
           skills:
-          - name: Vue.js
-            img: vue.png
+          - name: Java
+            img: 
+          - name: python
+            img: 
+          - name: C++
+            img: 
           - name: Javascript
             img: js.jpg
-          - name: jQuery
-            img: jquery.jpg
+          - name: Typescript
+            img: 
+          - name: C
+            img: 
+          - name: openMP
+            img: 
           - name: JSP
             img: jsp.png
+          - name: GO
+            img: 
           - name: HTML
             img: html.png
           - name: CSS
             img: css.jpg
           - name: Nexacro
             img: 
-          - name: Typescript
-            img: 
       
-
-        - title: Backend
-          skills:
-          - name: python
-            img: 
-          - name: Java
-            img: 
-          - name: C
-            img: 
-          - name: C++
-            img: 
-          - name: openMP
-            img: 
-          - name: GO
-            img: 
-      
-        - title: SQL
+        - title: Database
           skills:
           - name: Oracle
             img: 
@@ -306,30 +298,39 @@ skills:
 
         - title: Cloud
           skills:
+          - name: AWS
+            img: 
           - name: Azure
             img: 
       
         - title: Framework
           skills:
-          - name: Docker
+          - name: Spring boot
             img: 
           - name: Spring
             img: 
-          - name: Spring boot
+          - name: NodeJS
             img: 
-          - name: Node.js
-            img: 
+          - name: Vue.js
+            img: vue.png
+          - name: jQuery
+            img: jquery.jpg
           - name: FastAPI
+            img: 
+          - name: Docker
             img: 
           - name: Firebase
             img: 
+      
+        - title: ETC
+          skills:
           - name: Jenkins
             img: 
           - name: SonarQube
             img: 
           - name: git
             img: 
-      
+        
         - title: and More to come!
 #           skills:
 #           - name: etc
