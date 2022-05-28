@@ -238,7 +238,9 @@ p {
     justify-content: space-between;
   }
   .company-img {
-    height: 40px;
+    width: 150px;
+    height: fit-content;
+    margin-right: 10px;
   }
   .expeience-header {
     width: 75%;
