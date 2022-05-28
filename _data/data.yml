@@ -113,7 +113,7 @@ experiences:
       img: samsungsds.png
       details: |
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Working as a server engineer(/frontend engineer when lack of people)/project leader. Mostly used Java, Spring, Spring boot, python, Oracle, Postgres, Vue.js, etc. 
-        Mainly working in a System Integration field, therefore highly adaptable in new system, langagues or framework.
+        Mainly working in a System Integration field, therefore highly adaptable in new system, langauges or framework.
         Participated in more than 7 projects with the one of the biggest companies of various domain in Korea, such as Multi-campus, 
         S1, Samsung cooperation and Cheil worldwide, etc. 
         Have experience with Macro-service architect, also with Cloud environments (AWS, Azure) and Dockers.
@@ -140,6 +140,18 @@ projects:
     intro: >
       Projects from Samsung SDS were mostly B2B, therefore, it wouldn't be visible to public. Thank you for your understading.
     assignments:
+      - title: Kyowon Next Generation Project
+        role: Server Engineer
+        year: March 2022 – current
+        tagline: |
+          -	Building web/mobile application from 30 years old legacy. Mostly worked on integrating with external system, such as an address solution, pay solution, authentication solution, etc.
+        skill:
+        - name: Java
+        - name: Spring Boot
+        - name: Oracle
+        - name: myBatis
+        - name: Vue.js
+
       - title: Cheil Worldwide credential DB & open platform system project
         role: Project Leader/Development Leader
         year: July 2021 – Dec 2021
@@ -162,12 +174,12 @@ projects:
           Designed the table relations.
           - **MSA(Micro Service Architecture)**, RabbitMQ
         skill:
+        - name: Java
         - name: Spring
         - name: PostgreSQL
         - name: myBatis
         - name: RabbitMQ
         - name: Vue.js
-        - name: Java
 
       - title: Shareholders Meeting system project
         role: Server Engineer
@@ -218,7 +230,7 @@ projects:
           > Multi-campus is the best Human Resource Development Company in Republic of Korea which offers education services through online to mainly companies or individuals.
         skill:
         - name: Java
-        - name: Spring
+        - name: Spring Boot
         - name: Oracle
         - name: myBatis
         - name: Nexacro
