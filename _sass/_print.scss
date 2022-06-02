@@ -25,6 +25,10 @@
     .expeience-header {
       width: 100%;
     }
+    .upper-row {
+      display: flex;
+      justify-content: space-between;
+    }
   }
   .sidebar-wrapper {
     position: static;
