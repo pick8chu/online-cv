@@ -67,9 +67,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a **software engineer - server engineer(/frontend engineer when lack of people :) )/project leader** work
-      in System Integration field over 7+ projects in several different domain; e-learning, marketing, security, etc.
-      I am always up for challenges, productive discussion and beers. 🍻
+      - I'm a **software engineer - server engineer/project leader** working in System Integration field over 7+ projects in several different domain;
+      e-learning, marketing, security, etc.
+      - Many experiences with frontend development when lack of people 😅
+      - I am always up for challenges, productive discussion and beers. 🍻
 
 education:
     - degree: BSc in Computer Science
@@ -78,11 +79,7 @@ education:
 #       gpa: 3.51 / 4.50
       major: 4.01 / 4.50
       details: |
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; abcde
           - Bullet point
           - Bullet point
     - degree: BSc in Computer Science
@@ -90,11 +87,7 @@ education:
       time: 2016 - 2017
       gpa: 3.47 / 4.50
       details: |
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; abcde
           - Bullet point
           - Bullet point
 experiences:
@@ -103,7 +96,7 @@ experiences:
       company: Samsung SDS, South Korea
       img: samsungsds.png
       details: |
-        ### Developed Backend in System Integration field over 7+ projects in several different domain; e-learning, marketing, security, etc.
+        Developed Backend in System Integration field over 7+ projects in several different domain; e-learning, marketing, security, etc.
         - Fixed 3 times more bugs than others on beta period according to Jira.
         - Accomplished 0 errors for 1 man-month urgently requested task by the clients, finishing in 2.5 weeks.
         - Performed as a Project leader, UI designer, and development leader for 6 months in a 36 man-month $600M project, designing 11+ table relations and 54+ applications, negotiating client’s requirements.
@@ -114,16 +107,16 @@ experiences:
       company: Western Michigan University, U.S.A.
       img: wmu.png
       details: |
-        ### Researched the most efficient algorithm in a parallel computing setting for finding all-pairs shortest paths using C and OpenMP
+        Researched the most efficient algorithm in a parallel computing setting for finding all-pairs shortest paths using C and OpenMP
         - Reduced time complexity $O(n^3)$ to $O(n^2.4)$ in real-world test datasets.
-        - [Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis](https://doi.org/10.1145/3229710.3229730) 
+        - Published a paper, [Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis](https://doi.org/10.1145/3229710.3229730).(Abstract is below)
 
     - role: Artilleryman
       time: Jan 2013 - Oct 2014
       img: roka.jpg
       company: Republic of Korea Army, South Korea
       details: |
-        ### Taking a leadership as a squad leader for 14 months of 8+ soldiers
+        Taking a leadership as a squad leader for 14 months of 8+ soldiers
 
 projects:
     title: Projects
