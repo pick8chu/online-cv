@@ -127,7 +127,8 @@ projects:
         role: Server Engineer
         year: March 2022 – current
         tagline: |
-          -	Building web/mobile application from 30 years old legacy. Mostly worked on integrating with external system, such as an address solution, pay solution, authentication solution, etc.
+          -	Building web/mobile application from 30 years old legacy. 
+          - Made several core modules integrating with external system such as an address solution, pay solution, authentication solution, etc.
         skill:
         - name: Java
         - name: Spring Boot
@@ -139,8 +140,9 @@ projects:
         role: Project Leader/Development Leader
         year: July 2021 – Dec 2021
         tagline: |
-          Developed a platform where project managers can search for their choice of individuals or companies.
-          Designed structures and relations among tables in the database.
+          - Developed a company-wide linkedin-like platform.
+          - Performed as a Project leader, UI designer, and development leader.
+          - Designing 11+ table relations and 54+ applications, negotiating client’s requirements.
           > Cheil Worldwide is the country's largest and the world's 19th largest advertising agency, by 2018 revenues, and the world's 14th creative agency network.
         skill:
         - name: Java
@@ -153,9 +155,10 @@ projects:
         role: Server Engineer
         year: Jul 2020 – Jun 2021
         tagline: |
-          Developed an internal talent matching system targeted to allow employees to apply for specific projects based on certain preferences. 
-          Designed the table relations.
-          - **MSA(Micro Service Architecture)**, RabbitMQ
+          - Developed an internal talent matching system targeted to allow employees to apply for specific projects based on certain preferences. 
+          - Accomplished 0 errors for 1 man-month urgently requested task by the clients, finishing in 2.5 weeks.
+          - Designed the table relations.
+          - **MSA(Micro Service Architecture)**
         skill:
         - name: Java
         - name: Spring
@@ -168,7 +171,8 @@ projects:
         role: Server Engineer
         year: Jan 2020 – Jul 2020
         tagline: |
-          Developed a Samsung Corporation’s shareholders meeting system.
+          - Developed a Samsung Corporation’s shareholders meeting system.
+          - Meet the urgent 4 months deadline with 0 errors
         skill:
         - name: Java
         - name: Spring
@@ -180,14 +184,15 @@ projects:
         role: Project Leader
         year: Nov 2019 – Dec 2019
         tagline: |
-          Implemented a new system called Facility Lifecycle Management System in Samsung Electronics in Hungary.
-          - Gathered every data of the facilities in the factory and migrate them into the system and trained local employees to use the system.
+          - Implemented a new system, Facility Lifecycle Management System in Samsung Electronics in Hungary.
+          - Gathered every data of the facilities in the factory and migrate them into the system
+          - Trained local employees to use the system.
 
       - title: S1 Next Generation Project
         role: Server Engineer
         year: Sep 2019 – Oct 2019
         tagline: |
-          Implemented an inner algorithm of security alert system.
+          - Implemented an algorithm for the alert system.
           > S1 is a security company which provides total security solution for schools, banks, houses, etc. by enhancing stability of system security business and building solutions.
         skill:
         - name: Java
@@ -199,16 +204,16 @@ projects:
         role: Project Leader
         year: Jul 2019 – Aug 2019
         tagline: |
-          Implemented a new system called Facility Lifecycle Management System in Samsung Electronics in Indonesia.
-          - Gathered every data of the facilities in the factory and migrate them into the system and trained local employees to use the system.
+          - Implemented a new system, Facility Lifecycle Management System in Samsung Electronics in Indonesia.
+          - Gathered every data of the facilities in the factory and migrate them into the system
+          - Trained local employees to use the system.
           
       - title: Multi-campus Next Generation Project
         role: Server Engineer
         year: Jul 2018 – May 2019
         tagline: |
-          Developed webpages for managing contents providers’ classes and registering processes. 
-          - Worked on interfacing Multi-campus’ website and contents providers’ websites. 
-          - **MSA(Micro Service Architecture)**, RabbitMQ
+          - Developed content managing system of e-learning platform. 
+          - **MSA(Micro Service Architecture)**
           
           > Multi-campus is the best Human Resource Development Company in Republic of Korea which offers education services through online to mainly companies or individuals.
         skill:
@@ -216,6 +221,7 @@ projects:
         - name: Spring Boot
         - name: Oracle
         - name: myBatis
+        - name: RabbitMQ
         - name: Nexacro
         - name: Javascript
         
@@ -223,21 +229,21 @@ projects:
         role: Researching Intern
         year: Aug 2017 - Feb 2018
         tagline: |
-          - Published a paper, “Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis”, and accepted by ICPP’18, Proceedings of the 47th International Conference on Parallel Processing Companion.
+          - Published a paper, “[Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis](https://doi.org/10.1145/3229710.3229730)”, and accepted by ICPP’18, Proceedings of the 47th International Conference on Parallel Processing Companion.
         skill:   
+        - name: C
         - name: openMP
-        - name: parallel computing
 
-publications:
-    title: Publications
-    intro: |
-    papers:
-      - title: Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis
-        link: "https://doi.org/10.1145/3229710.3229730"
-        authors: Jong Wook Kim, Hyoeun Choi, and Seung-Hee Bae
-        conference: In Proceedings of the 47th International Conference on Parallel Processing Companion, 2018
-        abstract: |
-            The all-pairs shortest path problem is a classic problem to study characteristics of the given graphs. Though many efficient all-pairs shortest path algorithms have been published, it is still a very expensive computing task, especially with large graph datasets. In this paper, we propose an efficient parallel all-pairs shortest path algorithm based on Peng et al.'s fast sequential algorithm on shared-memory parallel environments to achieve faster and more efficient calculation for large-scale real-world networks. Peng et al.'s algorithm needs to sort vertices with respect to their degrees. However, it turns out the original algorithm uses less efficient sorting method, which is a significant portion of parallel overhead. Therefore, we also propose an efficient parallel method to sort data within a fixed range, in order to minimize the parallel overhead in our parallel algorithm. The optimized efficient sorting method can be used for general sorting purposes. Our experimental analysis shows that our proposed parallel algorithm achieves very high parallel speedup, even hyper-linear speedup, with real-world test datasets on two different shared-memory multi-core systems.
+# publications:
+#     title: Publications
+#     intro: |
+#     papers:
+#       - title: Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis
+#         link: "https://doi.org/10.1145/3229710.3229730"
+#         authors: Jong Wook Kim, Hyoeun Choi, and Seung-Hee Bae
+#         conference: In Proceedings of the 47th International Conference on Parallel Processing Companion, 2018
+#         abstract: |
+#             The all-pairs shortest path problem is a classic problem to study characteristics of the given graphs. Though many efficient all-pairs shortest path algorithms have been published, it is still a very expensive computing task, especially with large graph datasets. In this paper, we propose an efficient parallel all-pairs shortest path algorithm based on Peng et al.'s fast sequential algorithm on shared-memory parallel environments to achieve faster and more efficient calculation for large-scale real-world networks. Peng et al.'s algorithm needs to sort vertices with respect to their degrees. However, it turns out the original algorithm uses less efficient sorting method, which is a significant portion of parallel overhead. Therefore, we also propose an efficient parallel method to sort data within a fixed range, in order to minimize the parallel overhead in our parallel algorithm. The optimized efficient sorting method can be used for general sorting purposes. Our experimental analysis shows that our proposed parallel algorithm achieves very high parallel speedup, even hyper-linear speedup, with real-world test datasets on two different shared-memory multi-core systems.
 
 skills:
     title: Skills
