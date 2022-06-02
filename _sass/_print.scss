@@ -14,12 +14,6 @@
   img.company-img {
     display: none;
   }
-  .main-wrapper .time {
-//     float: right;
-    position: unset;
-    color: black !important;
-    -webkit-print-color-adjust: exact;
-  }
   .main-wrapper {
     padding-right: 20px !important;
     .expeience-header {
@@ -28,6 +22,14 @@
     .upper-row {
       display: flex;
       justify-content: space-between;
+    }
+    .time {
+      position: unset;
+      color: #97AAC3 !important;
+      -webkit-print-color-adjust: exact;
+    }
+    .company {
+      color: #97AAC3 !important;
     }
   }
   .sidebar-wrapper {
