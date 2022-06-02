@@ -6,6 +6,10 @@
     font-size: 12pt;
   }
 
+  a[href]:after {
+    display: none;
+  }
+  
   img.avatar {
     //         filter: grayscale(1);
     //         -webkit-filter: greyscale(1);
@@ -47,9 +51,6 @@
 
     .profile-container {
       padding-bottom: 40px;
-    }
-    a[href]:after {
-      display: none;
     }
     .tagline {
       line-height: 1;
