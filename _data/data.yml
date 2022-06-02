@@ -294,12 +294,12 @@ skills:
             img: 
           - name: NodeJS
             img: 
+          - name: FastAPI
+            img: 
           - name: Vue.js
             img: vue.png
           - name: jQuery
             img: jquery.jpg
-          - name: FastAPI
-            img: 
           - name: Docker
             img: 
           - name: Firebase
