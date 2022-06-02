@@ -35,6 +35,14 @@
     .company {
       color: #97AAC3 !important;
     }
+    .section {
+      margin-bottom: 20px;
+      .section-title{
+        .fa-stack{
+          display: none;
+        }
+      }
+    }
   }
   .sidebar-wrapper {
     position: static;
@@ -50,13 +58,17 @@
     //         background: #D3D3D3 !important;
 
     .profile-container {
-      padding-bottom: 40px;
+//       padding-bottom: 40px;
+      margin-bottom: 50px;
     }
     .tagline {
       line-height: 1;
       p {
         line-height: 1;
       }
+    }
+    .interests-container {
+      display: none;
     }
   }
 
