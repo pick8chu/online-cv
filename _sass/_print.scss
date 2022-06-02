@@ -21,14 +21,14 @@
   .main-wrapper {
     padding-right: 20px !important;
     
-    @media (max-width: 764px)
-    .project-sub {
-      flex-direction: unset; 
-    }
     .project-sub {
       color: #97AAC3 !important;
 //       justify-content: space-between !important;
 //       display: flex !important;
+      
+      @media (max-width: 764px){
+        flex-direction: unset; 
+      }
     }
     .expeience-header {
       width: 100%;
