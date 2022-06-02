@@ -6,10 +6,13 @@
     font-size: 12pt;
   }
 
-  img.avatar,
-  img.company-img {
+  img.avatar {
     //         filter: grayscale(1);
     //         -webkit-filter: greyscale(1);
+  }
+  
+  img.company-img {
+    display: none;
   }
   .main-wrapper .time {
     float: right;
@@ -36,6 +39,9 @@
     }
     a[href]:after {
       display: none;
+    }
+    .tagline {
+      line-height: unset;
     }
   }
 
