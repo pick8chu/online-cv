@@ -15,12 +15,16 @@
     display: none;
   }
   .main-wrapper .time {
-    float: right;
+//     float: right;
+    position: unset;
     color: black !important;
     -webkit-print-color-adjust: exact;
   }
   .main-wrapper {
     padding-right: 20px !important;
+    .expeience-header {
+      width: 100%;
+    }
   }
   .sidebar-wrapper {
     position: static;
