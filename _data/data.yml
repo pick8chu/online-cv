@@ -108,7 +108,7 @@ experiences:
       img: wmu.png
       details: |
         Researched the most efficient algorithm in a parallel computing setting for finding all-pairs shortest paths using C and OpenMP
-        - Reduced time complexity $O(n^3)$ to $O(n^2.4)$ in real-world test datasets.
+        - Reduced time complexity O(n^3) to O(n^2.4) in real-world test datasets.
         - Published a paper, [Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis](https://doi.org/10.1145/3229710.3229730).(Abstract is below)
 
     - role: Artilleryman
