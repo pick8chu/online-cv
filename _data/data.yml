@@ -67,18 +67,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor's degree in computer science and electronic engineering at Handong Global 
-      University in South Korea. Studied abroad at Taylor University in Upland, IN for 1 year as 
-      an exchange student. Worked as a researching intern for 6 months at Western Michigan 
-      University in Kalamazoo, MI, and wrote a paper titled, “Efficient Parallel All-Pairs Shortest 
-      Paths Algorithm for Complex Graph Analysis,” which was accepted in ICPP’18. 
-      <br/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Currently working at Samsung SDS as a **software engineer - server
-      engineer(/frontend engineer when lack of people)/project leader**. Mostly used Java, Spring, Spring boot, python, Oracle, Postgres, Vue.js, etc. Participated in 
-      more than 7 projects with the one of the biggest companies of various domain in Korea, such as Multi-campus, 
-      S1, Samsung cooperation and Cheil worldwide, etc. Have experience with Macro-service 
-      architect and Cloud environments (AWS, Azure) with Dockers. Given the 3+ years System Integration 
-      experiences, very confident in learning new languages or frameworks in no time.
+      I'm a **software engineer - server engineer(/frontend engineer when lack of people :) )/project leader** work
+      in System Integration field over 7+ projects in several different domain; e-learning, marketing, security, etc.
+      I am always up for challenges, productive discussion and beers. 🍻
 
 education:
     - degree: BSc in Computer Science
@@ -112,29 +103,28 @@ experiences:
       company: Samsung SDS, South Korea
       img: samsungsds.png
       details: |
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Working as a server engineer(/frontend engineer when lack of people)/project leader. Mostly used Java, Spring, Spring boot, python, Oracle, Postgres, Vue.js, etc. 
-        Mainly working in a System Integration field, therefore highly adaptable in new system, langauges or framework.
-        Participated in more than 7 projects with the one of the biggest companies of various domain in Korea, such as Multi-campus, 
-        S1, Samsung cooperation and Cheil worldwide, etc. 
-        Have experience with Macro-service architect, also with Cloud environments (AWS, Azure) and Dockers.
+        ### Developed Backend in System Integration field over 7+ projects in several different domain; e-learning, marketing, security, etc.
+        - Fixed 3 times more bugs than others on beta period according to Jira.
+        - Accomplished 0 errors for 1 man-month urgently requested task by the clients, finishing in 2.5 weeks.
+        - Performed as a Project leader, UI designer, and development leader for 6 months in a 36 man-month $600M project, designing 11+ table relations and 54+ applications, negotiating client’s requirements.
+        - Made several core modules integrating with external system, such as an address solution, pay solution, authentication solution, etc.
+        - Meet the deadline of an urgent 4 months project shareholder meeting application for Samsung Cooperation with 0 errors.
     - role: Researching intern
       time: Aug 2017 - Feb 2018
       company: Western Michigan University, U.S.A.
       img: wmu.png
       details: |
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Worked as a researching intern for 6 months at Western Michigan University in Kalamazoo, MI. 
-        Wrote a paper titled, “Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis," which was accepted in ICPP'18. 
-        <br/>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Jong Wook Kim, Hyoeun Choi, and Seung-Hee Bae. 2018. 
-        Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis. 
-        In Proceedings of the 47th International Conference on Parallel Processing Companion (ICPP 18). 
-        Association for Computing Machinery, New York, NY, USA, Article 5, 1-10. DOI:[https://doi.org/10.1145/3229710.3229730](https://doi.org/10.1145/3229710.3229730)*
+        ### Researched the most efficient algorithm in a parallel computing setting for finding all-pairs shortest paths using C and OpenMP
+        - Reduced time complexity $O(n^3)$ to $O(n^2.4)$ in real-world test datasets.
+        - [Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis](https://doi.org/10.1145/3229710.3229730) 
+
     - role: Artilleryman
       time: Jan 2013 - Oct 2014
       img: roka.jpg
       company: Republic of Korea Army, South Korea
       details: |
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Served in the ROK for 19 months as an Artilleryman. Served as a squad leader for more than 10 months.
+        ### Taking a leadership as a squad leader for 14 months of 8+ soldiers
+
 projects:
     title: Projects
     intro: >
