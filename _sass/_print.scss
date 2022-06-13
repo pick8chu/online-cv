@@ -19,8 +19,8 @@
   }
   
   img.avatar {
-    //         filter: grayscale(1);
-    //         -webkit-filter: greyscale(1);
+            filter: grayscale(1);
+            -webkit-filter: greyscale(1);
   }
   
   img.company-img {
@@ -88,6 +88,11 @@
     }
     .interests-container {
       display: none;
+    }
+    .a {
+      text-decoration: underline !important;
+      color: #005180 !important;
+      font-size: 17px !important;
     }
   }
 
