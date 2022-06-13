@@ -6,6 +6,12 @@
     font-size: 12pt;
   }
 
+  .a {
+    text-decoration: underline !important;
+    color: #005180 !important;
+    font-size: 17px !important;
+  }
+  
   a[href]:after {
     display: none;
   }
@@ -88,11 +94,6 @@
     }
     .interests-container {
       display: none;
-    }
-    .a {
-      text-decoration: underline !important;
-      color: #005180 !important;
-      font-size: 17px !important;
     }
   }
 
