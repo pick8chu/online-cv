@@ -7,13 +7,13 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Jong Wook Kim
+    name: Jong Wook Ethan Kim
     tagline: Software Engineer<br/>
     under_position: Server Engineer/Project Leader
     avatar: profile1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: po00076@gmail.com
+    email: jw.ethn.k@gmail.com
     phone: +82-10-4105-8667
     citizenship:
     website: pick8chu.github.io #do not add http://
@@ -107,16 +107,21 @@ experiences:
       company: Western Michigan University, U.S.A.
       img: wmu.png
       details: |
-        Researched the most efficient algorithm in a parallel computing setting for finding all-pairs shortest paths using C and OpenMP
-        - Reduced time complexity O(n^3) to O(n^2.4) in real-world test datasets.
-        - Published a paper, [Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis](https://doi.org/10.1145/3229710.3229730).(Abstract is below)
+        Conducted research to determine the most efficient parallel processing algorithms for searching all-pairs shortest paths using C and OpenMP
+        - Developed an algorithm that reduced time complexity needed to traverse real-world social networks from O(n3) to O(n2.4).
+        - Published paper accepted by International Parallel Processing Conference, [Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis](https://doi.org/10.1145/3229710.3229730).(Abstract is below)
 
     - role: Artilleryman
       time: Jan 2013 - Oct 2014
       img: roka.jpg
       company: Republic of Korea Army, South Korea
       details: |
-        Taking a leadership as a squad leader for 14 months of 8+ soldiers
+        Led a squad of 8+ soldiers responsible for artillery deployment and operation
+        - Won bootcamp commander's commendation award for receiving the highest marks in all subjects (leadership, shooting, strength, etc.) amongst 258 other soldiers
+        - Manned country’s 1st line of artillery defense, operating just 10 miles outside North Korea
+        - Upheld national defense in complex and high profile situations, including a presidential election
+        - Served through over 222 active North Korean missile provocations, ensuring, at each incident, the team was ready for escalation in less than 60 seconds
+
 
 projects:
     title: Projects
@@ -249,7 +254,7 @@ skills:
     title: Skills
 
     toolset:
-        - title: Languages
+        - title: Programming
           skills:
           - name: Java
             img: 
@@ -263,17 +268,9 @@ skills:
             img: 
           - name: C
             img: 
-          - name: openMP
-            img: 
           - name: JSP
             img: jsp.png
           - name: GO
-            img: 
-          - name: HTML
-            img: html.png
-          - name: CSS
-            img: css.jpg
-          - name: Nexacro
             img: 
       
         - title: Database
@@ -282,11 +279,15 @@ skills:
             img: 
           - name: PostgreSQL
             img: 
+          - name: Redis
+            img: 
           - name: Firebase Realtime Database
             img: 
 
         - title: Cloud
           skills:
+          - name: OCI(certified)
+            img: 
           - name: AWS
             img: 
           - name: Azure
@@ -302,6 +303,8 @@ skills:
             img: 
           - name: FastAPI
             img: 
+          - name: Vue.js
+            img: vue.png
           - name: Vue.js
             img: vue.png
           - name: jQuery
