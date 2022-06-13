@@ -1,6 +1,6 @@
 /* ======= Base ======= */
 body {
-  font-family: "arial", sans-serif;
+  font-family: "Lato";
   color: $text-color-secondary;
   background: $smoky-white;
   font-size: 14px;
@@ -77,6 +77,9 @@ p {
     text-align: right;
     height: 360px;
     text-align: center;
+    .name {
+      font-family: "arial", sans-serif; !important
+    }
     @media (min-width: 764px) {
       height: 510px;
       text-align: right;
