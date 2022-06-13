@@ -6,9 +6,16 @@
     font-size: 12pt;
   }
 
-  a, .section .projects-section .print-only {
+  a {
     text-decoration: underline !important;
     color: #005180 !important;
+  }
+  
+  .print-only {
+    .project-title {
+      text-decoration: underline !important;
+      color: #005180 !important;
+    }
   }
   
   a[href]:after {
