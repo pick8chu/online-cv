@@ -98,9 +98,9 @@ experiences:
       details: |
         Developed Backend in System Integration field over 7+ projects in several different domain; e-learning, marketing, security, etc.
         - Fixed 42 bugs among 183 on beta period according to Jira.
-        - Completed an urgent client request, estimated at a month's worth of work for 1 full time SWE, in 2.5 weeks with 0 errors surfaced by QA team.
-        - Leaded a $600M project, operating as a Project Leader and Tech Lead for to deliver ~55 web applications, including over 10 table relations.
-        - Made several core modules integrating with external system, such as an address solution, pay solution, authentication solution, etc.
+        - Completed an urgent client request, estimated at a month's worth of work for 1 full time SWE, in 2.5 weeks with 0 errors surfaced by the QA team.
+        - Led a $600M project, operating as a Project Leader and Tech Lead to deliver ~55 web applications, including over 10 table relations.
+        - Made several core modules integrating with external solutions such as an address solution, payment solution, authentication solution, company-wide messenger, etc.
         - Meet the deadline of an urgent 4 months project shareholder meeting application for Samsung Cooperation with 0 errors.
     - role: Researching intern
       time: Aug 2017 - Feb 2018
@@ -161,7 +161,7 @@ projects:
         year: Jul 2020 – Jun 2021
         tagline: |
           - Developed an internal talent matching system targeted to allow employees to apply for specific projects based on certain preferences. 
-          - Completed an urgent client request, estimated at a month's worth of work for 1 full time SWE, in 2.5 weeks with 0 errors surfaced by QA team.
+          - Completed an urgent client request, estimated at a month's worth of work for 1 full time SWE, in 2.5 weeks with 0 errors surfaced by the QA team.
           - Designed the table relations, and also optimized queries.
           - Fixed 42 bugs among 183 on beta period according to Jira.
           - **MSA(Micro Service Architecture)**
@@ -191,7 +191,7 @@ projects:
         year: Nov 2019 – Dec 2019
         tagline: |
           - Implemented a new system, Facility Lifecycle Management System in Samsung Electronics in Hungary.
-          - Migrated the data of every specifications of 1000+ facilities in the entire factory, working closely with the local employees.
+          - Migrated the data of every specification of 1000+ facilities in the entire factory, working closely with the local employees.
           - Trained local employees how to use the system.
 
       - title: S1 Next Generation Project
@@ -211,7 +211,7 @@ projects:
         year: Jul 2019 – Aug 2019
         tagline: |
           - Implemented a new system, Facility Lifecycle Management System in Samsung Electronics in Indonesia.
-          - Migrated the data of every specifications of 1000+ facilities in the entire factory, working closely with the local employees.
+          - Migrated the data of every specification of 1000+ facilities in the entire factory, working closely with the local employees.
           - Trained local employees how to use the system.
           
       - title: Multi-campus Next Generation Project
