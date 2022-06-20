@@ -98,8 +98,8 @@ experiences:
       details: |
         Developed Backend in System Integration field over 7+ projects in several different domain; e-learning, marketing, security, etc.
         - Fixed 42 bugs among 183 on beta period according to Jira.
-        - Accomplished 0 errors for 1 man-month urgently requested task by the clients, finishing in 2.5 weeks.
-        - Performed as a Project leader, UI designer, and development leader for 6 months in a 36 man-month $600M project, designing 11+ table relations and 54+ applications, negotiating client’s requirements.
+        - Completed an urgent client request, estimated at a month's worth of work for 1 full time SWE, in 2.5 weeks with 0 errors surfaced by QA team.
+        - Leaded a $600M project, operating as a Project Leader and Tech Lead for to deliver ~55 web applications, including over 10 table relations.
         - Made several core modules integrating with external system, such as an address solution, pay solution, authentication solution, etc.
         - Meet the deadline of an urgent 4 months project shareholder meeting application for Samsung Cooperation with 0 errors.
     - role: Researching intern
@@ -125,15 +125,15 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      Projects from Samsung SDS were mostly B2B, therefore, it wouldn't be visible to public. Thank you for your understading.
+#     intro: >
+#       Projects from Samsung SDS were mostly B2B, therefore, it wouldn't be visible to public. Thank you for your understading.
     assignments:
       - title: Kyowon Next Generation Project
         role: Server Engineer
         year: March 2022 – current
         tagline: |
           -	Building web/mobile application from 30 years old legacy. 
-          - Made several core modules integrating with external system such as an address solution, pay solution, authentication solution, etc.
+          - Made several core modules integrating with external solutions such as an address solution, payment solution, authentication solution, company-wide messenger, etc.
         skill:
         - name: Java
         - name: Spring Boot
@@ -146,7 +146,7 @@ projects:
         year: July 2021 – Dec 2021
         tagline: |
           - Developed a company-wide linkedin-like platform.
-          - Performed as a Project leader, UI designer, and development leader.
+          - Performed as a Project leader and tech lead.
           - Designing 11+ table relations and 54+ applications, negotiating client’s requirements.
           > Cheil Worldwide is the country's largest and the world's 19th largest advertising agency, by 2018 revenues, and the world's 14th creative agency network.
         skill:
@@ -157,12 +157,13 @@ projects:
         - name: JSP
 
       - title: Samsung SDS talent matching system project
-        role: Server Engineer
+        role: Fullstack Engineer
         year: Jul 2020 – Jun 2021
         tagline: |
           - Developed an internal talent matching system targeted to allow employees to apply for specific projects based on certain preferences. 
-          - Accomplished 0 errors for 1 man-month urgently requested task by the clients, finishing in 2.5 weeks.
-          - Designed the table relations.
+          - Completed an urgent client request, estimated at a month's worth of work for 1 full time SWE, in 2.5 weeks with 0 errors surfaced by QA team.
+          - Designed the table relations, and also optimized queries.
+          - Fixed 42 bugs among 183 on beta period according to Jira.
           - **MSA(Micro Service Architecture)**
         skill:
         - name: Java
@@ -177,7 +178,7 @@ projects:
         year: Jan 2020 – Jul 2020
         tagline: |
           - Developed a Samsung Corporation’s shareholders meeting system.
-          - Meet the urgent 4 months deadline with 0 errors as a fullstack engineer, even when I have never used Vue.js before.
+          - Meet the urgent 4 months deadline with 0 errors as a fullstack engineer, without having any experience with Vue.js.
         skill:
         - name: Java
         - name: Spring
