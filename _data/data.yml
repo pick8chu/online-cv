@@ -173,11 +173,11 @@ projects:
         - name: Vue.js
 
       - title: Shareholders Meeting system project
-        role: Server Engineer
+        role: Fullstack Engineer
         year: Jan 2020 – Jul 2020
         tagline: |
           - Developed a Samsung Corporation’s shareholders meeting system.
-          - Meet the urgent 4 months deadline with 0 errors
+          - Meet the urgent 4 months deadline with 0 errors as a fullstack engineer, even when I have never used Vue.js before.
         skill:
         - name: Java
         - name: Spring
@@ -190,14 +190,14 @@ projects:
         year: Nov 2019 – Dec 2019
         tagline: |
           - Implemented a new system, Facility Lifecycle Management System in Samsung Electronics in Hungary.
-          - Gathered every data of the facilities in the factory and migrate them into the system
-          - Trained local employees to use the system.
+          - Migrated the data of every specifications of 1000+ facilities in the entire factory, working closely with the local employees.
+          - Trained local employees how to use the system.
 
       - title: S1 Next Generation Project
         role: Server Engineer
         year: Sep 2019 – Oct 2019
         tagline: |
-          - Implemented an algorithm for the alert system.
+          - Implemented the core algorithm for alarm trigger system using queue and map data structure
           > S1 is a security company which provides total security solution for schools, banks, houses, etc. by enhancing stability of system security business and building solutions.
         skill:
         - name: Java
@@ -210,8 +210,8 @@ projects:
         year: Jul 2019 – Aug 2019
         tagline: |
           - Implemented a new system, Facility Lifecycle Management System in Samsung Electronics in Indonesia.
-          - Gathered every data of the facilities in the factory and migrate them into the system
-          - Trained local employees to use the system.
+          - Migrated the data of every specifications of 1000+ facilities in the entire factory, working closely with the local employees.
+          - Trained local employees how to use the system.
           
       - title: Multi-campus Next Generation Project
         role: Server Engineer
