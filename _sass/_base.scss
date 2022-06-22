@@ -245,6 +245,9 @@ p {
     overflow: hidden;
     justify-content: space-between;
     margin-bottom: 2px;
+	@media (max-width: 965px){
+	  flex-direction: column;
+	}
   }
   .meta {
     display: flex;
