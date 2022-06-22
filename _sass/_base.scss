@@ -72,16 +72,16 @@ p {
     line-height: 10px;
   }
   .profile-container {
-    padding: 20px 10px 0px 20px;
+    padding: 20px 10px 20px 20px;
     background: hwb(212deg 1% 37% / 20%);
     text-align: right;
-    height: 360px;
+//     height: 360px;
     text-align: center;
     .name {
       font-family: "arial", sans-serif !important; 
     }
     @media (min-width: 764px) {
-      height: 510px;
+//       height: 510px;
       text-align: right;
     }
   }
@@ -96,7 +96,8 @@ p {
     font-size: 24px;
     line-height: 0px;
     font-weight: 400;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
+    padding-top: 10px;
   }
   .under_position {
     font-size: 14px;
