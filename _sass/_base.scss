@@ -122,6 +122,7 @@ p {
     }
   }
   .contact-list {
+		word-break: break-all;
     .fas,
     .fab,
     .far {
@@ -138,7 +139,7 @@ p {
   }
   .container-block {
     background: hwb(212deg 1% 37% / 5%);
-    padding: 10px 10px 10px 30px;
+    padding: 10px 10px 10px 20px;
     margin: 20px 0px 0px 0px;
   }
   .container-block-title {
