@@ -80,7 +80,7 @@ p {
     .name {
       font-family: "arial", sans-serif !important; 
     }
-    @media (min-width: 950px) {
+    @media (min-width: 965px) {
 //       height: 510px;
       text-align: right;
     }
@@ -117,7 +117,7 @@ p {
     border: 0px solid #fff;
     border-radius: 100%;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 10%);
-    @media (max-width: 950px) {
+    @media (max-width: 965px) {
       max-width: 200px;
     }
   }
@@ -213,7 +213,7 @@ p {
     position: relative;
     margin-top: 0;
     margin-bottom: 20px;
-    @media (max-width: 950px) {
+    @media (max-width: 764px) {
       background: rgb(111, 141, 179);
       margin-right: 30%;
       border-radius: 50px;
@@ -224,7 +224,7 @@ p {
     .title {
 //       color: white;
       padding-top: 7px;
-      @media (max-width: 950px) {
+      @media (max-width: 764px) {
         color: white;
       }
     }
@@ -241,7 +241,9 @@ p {
   }
   .upper-row {
     position: relative;
+    display: flex;
     overflow: hidden;
+    justify-content: space-between;
     margin-bottom: 2px;
   }
   .meta {
@@ -266,9 +268,6 @@ p {
     font-weight: 500;
   }
   .time {
-    position: absolute;
-    right: 0;
-    top: 0;
     color: $text-grey;
   }
   .company,
@@ -299,7 +298,7 @@ p {
     display: flex;
     margin-bottom: 10px;
     color: #97AAC3;
-    @media (max-width: 950px) {
+    @media (max-width: 965px) {
       flex-direction: column;
     }
     .project-position {
@@ -332,7 +331,7 @@ p {
 }
 
 .skillset {
-  @media (min-width: 950px) {
+  @media (min-width: 965px) {
     column-count: 2;    
   }
   column-count: 1;
