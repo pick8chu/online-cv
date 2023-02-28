@@ -3,170 +3,178 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Jong Wook
-    eng-name: Ethan
-    sir-name: Kim
-    tagline: Software Engineer
-    under_position: Full-stack developer/Project Leader
-    avatar: profile1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Jong Wook
+  eng-name: Ethan
+  sir-name: Kim
+  tagline: Software Engineer
+  under_position: Full-stack developer
+  avatar: profile1.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: ethan.jongwook.kim@gmail.com
-    phone: +82-10-4105-8667
-    citizenship:
-    website: pick8chu.github.io #do not add http://
-    linkedin: jong-wook-ethan-kim
-    xing:
-    github: pick8chu
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter:
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: pick8chu.github.io/online-cv/
+  # Sidebar links
+  email: ethan.jongwook.kim@gmail.com
+  phone: +45-31-47-42-94
+  citizenship:
+  website: pick8chu.github.io #do not add http://
+  linkedin: jong-wook-ethan-kim
+  xing:
+  github: pick8chu
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter:
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  pdf: pick8chu.github.io/online-cv/
 
-    languages:
-      - idiom: Korean
-        level: Native
+  languages:
+    - idiom: Korean
+      level: Native
 
-      - idiom: English
-        level: Fluent
+    - idiom: English
+      level: Fluent
 
-      - idiom: Japanese
-        level: Intermediate
+    - idiom: Japanese
+      level: Intermediate
 
-    interests:
-      - item: Algorithm
-        link:
+  interests:
+    - item: Algorithm
+      link:
 
-      - item: Machine Learning
-        link:
+    - item: Machine Learning
+      link:
 
-      - item: Deep Learning
-        link:
+    - item: Deep Learning
+      link:
 
-      - item: Climbing
-        link:
+    - item: Climbing
+      link:
 
-      - item: Hiking
-        link:
+    - item: Hiking
+      link:
 
-      - item: Socializing
-        link:
+    - item: Socializing
+      link:
 
-      - item: Playing Guitar
-        link:
+    - item: Playing Guitar
+      link:
 
-      - item: Rowing
-        link:
+    - item: Rowing
+      link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      - I'm a **software engineer - full stack engineer/project leader** working on project-based B2B applications supporting Samsung initiatives - talent management, factory maintenance, security, etc. 
-      - I am always up for challenges, productive discussions and beers. 🍻
+  title: Career Profile
+  summary: |
+    - I'm a **software engineer - full stack engineer/project leader** working on project-based B2B applications supporting Samsung initiatives - talent management, factory maintenance, security, etc. 
+    - I am always up for challenges, productive discussions and beers. 🍻
 
 education:
-    - degree: BSc in Computer Science
-      university: Handong Global University
-      time: 2012 - 2018
-#       gpa: 3.51 / 4.50
-      major: 4.01 / 4.50
-      details: |
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; abcde
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Computer Science
-      university: Taylor University
-      time: 2016 - 2017
-      gpa: 3.47 / 4.50
-      details: |
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; abcde
-          - Bullet point
-          - Bullet point
+  - degree: BSc in Computer Science
+    university: Handong Global University
+    time: 2012 - 2018
+    #       gpa: 3.51 / 4.50
+    major: 4.01 / 4.50
+    details: |
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; abcde
+        - Bullet point
+        - Bullet point
+  - degree: BSc in Computer Science
+    university: Taylor University
+    time: 2016 - 2017
+    gpa: 3.47 / 4.50
+    details: |
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; abcde
+        - Bullet point
+        - Bullet point
 experiences:
-    - role: Software Engineer
-      time: Jul 2018 - Present
-      company: Samsung SDS, South Korea
-      img: samsungsds.png
-      details: |
-        Fullstack developer working on project-based B2B applications supporting Samsung initiatives- talent management, factory maintenance, security, etc.
-        - Led a team (client, design, dev) to develop a $600M contractor management system, delivering over 55 functional web pages and 10 table relations.
-        - Responsible for the dev of all reusable integration components (address, payment, auth, etc.), required for infrastructure update of company web app
-        - Built table relations, optimizations, API’s, and web pages for internal talent management system used by all Samsung devs and managers to staff projects
-        - Devised core algorithm for high availability home security alarm, using queue and map data structures to ensure data integrity and functional efficiency
-        - Collected and digitized Samsung factory metadata by working with employees to develop ingestion scripts, enabling management of maintenance needs
-        
-    - role: Researching intern
-      time: Aug 2017 - Feb 2018
-      company: Western Michigan University, U.S.A.
-      img: wmu.png
-      details: |
-        Conducted research to determine the most efficient parallel processing algorithms for searching all-pairs shortest paths using C and OpenMP
-        - Developed an algorithm that reduced time complexity needed to traverse real-world social networks from O(n3) to O(n2.4).
-        - Published paper accepted by International Parallel Processing Conference, [Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis](https://doi.org/10.1145/3229710.3229730).(Abstract is below)
+  - role: Fullstack Developer
+    time: Oct 2022 - Feb 2023
+    company: ISSUU, Denmark
+    img: issuulogo.png
+    details: |
+      Fullstack developer. Mostly using React typescript for the frontend, typescript, OCaml for the backend. 
+      Resonsiblity was bounded to developing/maintaining reader side experiences.
+      Laid off due to the employer's bad finaicial situation.
 
-    - role: Artilleryman
-      time: Jan 2013 - Oct 2014
-      img: roka.jpg
-      company: Republic of Korea Army, South Korea
-      details: |
-        Led a squad of 8+ soldiers responsible for artillery deployment and operation
-        - Won bootcamp commander's commendation award for receiving the highest marks in all subjects (leadership, shooting, strength, etc.) amongst 258 other soldiers
-        - Manned country’s 1st line of artillery defense, operating just 10 miles outside North Korea
-        - Upheld national defense in complex and high profile situations, including a presidential election
-        - Served through over 222 active North Korean missile provocations, ensuring, at each incident, the team was ready for escalation in less than 60 seconds
+  - role: Software Engineer
+    time: Jul 2018 - Sep 2022
+    company: Samsung SDS, South Korea
+    img: samsungsds.png
+    details: |
+      Fullstack developer working on project-based B2B applications supporting Samsung initiatives- talent management, factory maintenance, security, etc.
+      - Led a team (client, design, dev) to develop a $600M contractor management system, delivering over 55 functional web pages and 10 table relations.
+      - Responsible for the dev of all reusable integration components (address, payment, auth, etc.), required for infrastructure update of company web app
+      - Built table relations, optimizations, API’s, and web pages for internal talent management system used by all Samsung devs and managers to staff projects
+      - Devised core algorithm for high availability home security alarm, using queue and map data structures to ensure data integrity and functional efficiency
+      - Collected and digitized Samsung factory metadata by working with employees to develop ingestion scripts, enabling management of maintenance needs
 
+  - role: Researching intern
+    time: Aug 2017 - Feb 2018
+    company: Western Michigan University, U.S.A.
+    img: wmu.png
+    details: |
+      Conducted research to determine the most efficient parallel processing algorithms for searching all-pairs shortest paths using C and OpenMP
+      - Developed an algorithm that reduced time complexity needed to traverse real-world social networks from O(n3) to O(n2.4).
+      - Published paper accepted by International Parallel Processing Conference, [Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis](https://doi.org/10.1145/3229710.3229730).(Abstract is below)
+
+  - role: Artilleryman
+    time: Jan 2013 - Oct 2014
+    img: roka.jpg
+    company: Republic of Korea Army, South Korea
+    details: |
+      Led a squad of 8+ soldiers responsible for artillery deployment and operation
+      - Won bootcamp commander's commendation award for receiving the highest marks in all subjects (leadership, shooting, strength, etc.) amongst 258 other soldiers
+      - Manned country’s 1st line of artillery defense, operating just 10 miles outside North Korea
+      - Upheld national defense in complex and high profile situations, including a presidential election
+      - Served through over 222 active North Korean missile provocations, ensuring, at each incident, the team was ready for escalation in less than 60 seconds
 
 projects:
-    title: Projects
-#     intro: >
-#       Projects from Samsung SDS were mostly B2B, therefore, it wouldn't be visible to public. Thank you for your understading.
-    assignments:
-      - title: Kyowon Next Generation Project
-        role: Server Engineer
-        year: March 2022 – current
-        tagline: |
-          -	Building web/mobile application from 30 years old legacy. 
-          - Made several core modules integrating with external solutions such as an address solution, payment solution, authentication solution, company-wide messenger, etc.
-        skill:
+  title: Projects
+  #     intro: >
+  #       Projects from Samsung SDS were mostly B2B, therefore, it wouldn't be visible to public. Thank you for your understading.
+  assignments:
+    - title: Kyowon Next Generation Project
+      role: Server Engineer
+      year: March 2022 – current
+      tagline: |
+        -	Building web/mobile application from 30 years old legacy. 
+        - Made several core modules integrating with external solutions such as an address solution, payment solution, authentication solution, company-wide messenger, etc.
+      skill:
         - name: Java
         - name: Spring Boot
         - name: Oracle
         - name: myBatis
         - name: Vue.js
 
-      - title: Cheil Worldwide credential DB & open platform system project
-        role: Project Leader/Development Leader
-        year: July 2021 – Dec 2021
-        tagline: |
-          - Developed a company-wide linkedin-like platform.
-          - Performed as a Project leader and tech lead.
-          - Designing 11+ table relations and 54+ applications, negotiating client’s requirements.
-          > Cheil Worldwide is the country's largest and the world's 19th largest advertising agency, by 2018 revenues, and the world's 14th creative agency network.
-        skill:
+    - title: Cheil Worldwide credential DB & open platform system project
+      role: Project Leader/Development Leader
+      year: July 2021 – Dec 2021
+      tagline: |
+        - Developed a company-wide linkedin-like platform.
+        - Performed as a Project leader and tech lead.
+        - Designing 11+ table relations and 54+ applications, negotiating client’s requirements.
+        > Cheil Worldwide is the country's largest and the world's 19th largest advertising agency, by 2018 revenues, and the world's 14th creative agency network.
+      skill:
         - name: Java
         - name: Spring
         - name: Oracle
         - name: myBatis
         - name: JSP
 
-      - title: Samsung SDS talent matching system project
-        role: Fullstack Engineer
-        year: Jul 2020 – Jun 2021
-        tagline: |
-          - Developed an internal talent matching system targeted to allow employees to apply for specific projects based on certain preferences. 
-          - Completed an urgent client request, estimated at a month's worth of work for 1 full time SWE, in 2.5 weeks with 0 errors surfaced by the QA team.
-          - Designed the table relations, and also optimized queries.
-          - Fixed 42 bugs among 183 on beta period according to Jira.
-          - **MSA(Micro Service Architecture)**
-        skill:
+    - title: Samsung SDS talent matching system project
+      role: Fullstack Engineer
+      year: Jul 2020 – Jun 2021
+      tagline: |
+        - Developed an internal talent matching system targeted to allow employees to apply for specific projects based on certain preferences. 
+        - Completed an urgent client request, estimated at a month's worth of work for 1 full time SWE, in 2.5 weeks with 0 errors surfaced by the QA team.
+        - Designed the table relations, and also optimized queries.
+        - Fixed 42 bugs among 183 on beta period according to Jira.
+        - **MSA(Micro Service Architecture)**
+      skill:
         - name: Java
         - name: Spring
         - name: PostgreSQL
@@ -174,56 +182,56 @@ projects:
         - name: RabbitMQ
         - name: Vue.js
 
-      - title: Shareholders Meeting system project
-        role: Fullstack Engineer
-        year: Jan 2020 – Jul 2020
-        tagline: |
-          - Developed a Samsung Corporation’s shareholders meeting system.
-          - Meet the urgent 4 months deadline with 0 errors as a fullstack engineer, without having any experience with Vue.js.
-        skill:
+    - title: Shareholders Meeting system project
+      role: Fullstack Engineer
+      year: Jan 2020 – Jul 2020
+      tagline: |
+        - Developed a Samsung Corporation’s shareholders meeting system.
+        - Meet the urgent 4 months deadline with 0 errors as a fullstack engineer, without having any experience with Vue.js.
+      skill:
         - name: Java
         - name: Spring
         - name: Oracle
         - name: myBatis
         - name: Vue.js
 
-      - title: Implementing Facility Lifecycle Management System in Samsung Electronics Hungary
-        role: Project Leader
-        year: Nov 2019 – Dec 2019
-        tagline: |
-          - Implemented a new system, Facility Lifecycle Management System in Samsung Electronics in Hungary.
-          - Migrated the data of every specification of 1000+ facilities in the entire factory, working closely with the local employees.
-          - Trained local employees how to use the system.
+    - title: Implementing Facility Lifecycle Management System in Samsung Electronics Hungary
+      role: Project Leader
+      year: Nov 2019 – Dec 2019
+      tagline: |
+        - Implemented a new system, Facility Lifecycle Management System in Samsung Electronics in Hungary.
+        - Migrated the data of every specification of 1000+ facilities in the entire factory, working closely with the local employees.
+        - Trained local employees how to use the system.
 
-      - title: S1 Next Generation Project
-        role: Server Engineer
-        year: Sep 2019 – Oct 2019
-        tagline: |
-          - Implemented the core algorithm for alarm trigger system using queue and map data structure
-          > S1 is a security company which provides total security solution for schools, banks, houses, etc. by enhancing stability of system security business and building solutions.
-        skill:
+    - title: S1 Next Generation Project
+      role: Server Engineer
+      year: Sep 2019 – Oct 2019
+      tagline: |
+        - Implemented the core algorithm for alarm trigger system using queue and map data structure
+        > S1 is a security company which provides total security solution for schools, banks, houses, etc. by enhancing stability of system security business and building solutions.
+      skill:
         - name: Java
         - name: Azure
         - name: CosmosDB
         - name: Vue.js
 
-      - title: Implementing Facility Lifecycle Management System in Samsung Electronics Indonesia
-        role: Project Leader
-        year: Jul 2019 – Aug 2019
-        tagline: |
-          - Implemented a new system, Facility Lifecycle Management System in Samsung Electronics in Indonesia.
-          - Migrated the data of every specification of 1000+ facilities in the entire factory, working closely with the local employees.
-          - Trained local employees how to use the system.
-          
-      - title: Multi-campus Next Generation Project
-        role: Server Engineer
-        year: Jul 2018 – May 2019
-        tagline: |
-          - Developed content managing system of e-learning platform. 
-          - **MSA(Micro Service Architecture)**
-          
-          > Multi-campus is the best Human Resource Development Company in Republic of Korea which offers education services through online to mainly companies or individuals.
-        skill:
+    - title: Implementing Facility Lifecycle Management System in Samsung Electronics Indonesia
+      role: Project Leader
+      year: Jul 2019 – Aug 2019
+      tagline: |
+        - Implemented a new system, Facility Lifecycle Management System in Samsung Electronics in Indonesia.
+        - Migrated the data of every specification of 1000+ facilities in the entire factory, working closely with the local employees.
+        - Trained local employees how to use the system.
+
+    - title: Multi-campus Next Generation Project
+      role: Server Engineer
+      year: Jul 2018 – May 2019
+      tagline: |
+        - Developed content managing system of e-learning platform. 
+        - **MSA(Micro Service Architecture)**
+
+        > Multi-campus is the best Human Resource Development Company in Republic of Korea which offers education services through online to mainly companies or individuals.
+      skill:
         - name: Java
         - name: Spring Boot
         - name: Oracle
@@ -231,13 +239,13 @@ projects:
         - name: RabbitMQ
         - name: Nexacro
         - name: Javascript
-        
-      - title: Researching Intern
-        role: Researching Intern
-        year: Aug 2017 - Feb 2018
-        tagline: |
-          - Published a paper, “[Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis](https://doi.org/10.1145/3229710.3229730)”, and accepted by ICPP’18, Proceedings of the 47th International Conference on Parallel Processing Companion.
-        skill:   
+
+    - title: Researching Intern
+      role: Researching Intern
+      year: Aug 2017 - Feb 2018
+      tagline: |
+        - Published a paper, “[Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis](https://doi.org/10.1145/3229710.3229730)”, and accepted by ICPP’18, Proceedings of the 47th International Conference on Parallel Processing Companion.
+      skill:
         - name: C
         - name: openMP
 
@@ -253,82 +261,88 @@ projects:
 #             The all-pairs shortest path problem is a classic problem to study characteristics of the given graphs. Though many efficient all-pairs shortest path algorithms have been published, it is still a very expensive computing task, especially with large graph datasets. In this paper, we propose an efficient parallel all-pairs shortest path algorithm based on Peng et al.'s fast sequential algorithm on shared-memory parallel environments to achieve faster and more efficient calculation for large-scale real-world networks. Peng et al.'s algorithm needs to sort vertices with respect to their degrees. However, it turns out the original algorithm uses less efficient sorting method, which is a significant portion of parallel overhead. Therefore, we also propose an efficient parallel method to sort data within a fixed range, in order to minimize the parallel overhead in our parallel algorithm. The optimized efficient sorting method can be used for general sorting purposes. Our experimental analysis shows that our proposed parallel algorithm achieves very high parallel speedup, even hyper-linear speedup, with real-world test datasets on two different shared-memory multi-core systems.
 
 skills:
-    title: Skills
+  title: Skills
 
-    toolset:
-        - title: Programming
-          skills:
-          - name: Java
-            img: 
-          - name: python
-            img: 
-          - name: C++
-            img: 
-          - name: Javascript
-            img: js.jpg
-          - name: Typescript
-            img: 
-          - name: C
-            img: 
-          - name: JSP
-            img: jsp.png
-          - name: GO
-            img: 
-      
-        - title: Database
-          skills:
-          - name: Oracle
-            img: 
-          - name: PostgreSQL
-            img: 
-          - name: Redis
-            img: 
-          - name: Firebase Realtime Database
-            img: 
+  toolset:
+    - title: Programming
+      skills:
+        - name: Typescript
+          img:
+        - name: Javascript
+          img: js.jpg
+        - name: Java
+          img:
+        - name: OCaml
+          img:
+        - name: python
+          img:
+        - name: C++
+          img:
+        - name: C
+          img:
+        - name: JSP
+          img: jsp.png
+        - name: GO
+          img:
 
-        - title: Cloud
-          skills:
-          - name: OCI(certified)
-            img: 
-          - name: AWS
-            img: 
-          - name: Azure
-            img: 
-      
-        - title: Framework
-          skills:
-          - name: Spring boot
-            img: 
-          - name: Spring
-            img: 
-          - name: NodeJS
-            img: 
-          - name: FastAPI
-            img: 
-          - name: Vue.js
-            img: vue.png
-          - name: Vue.js
-            img: vue.png
-          - name: jQuery
-            img: jquery.jpg
-          - name: Docker
-            img: 
-          - name: Firebase
-            img: 
-      
-        - title: ETC
-          skills:
-          - name: Jenkins
-            img: 
-          - name: SonarQube
-            img: 
-          - name: git
-            img: 
-        
-        - title: and More to come!
+    - title: Database
+      skills:
+        - name: Oracle
+          img:
+        - name: PostgreSQL
+          img:
+        - name: Redis
+          img:
+        - name: Firebase Realtime Database
+          img:
+        - name: mySQL
+          img:
+
+    - title: Cloud
+      skills:
+        - name: OCI(certified)
+          img:
+        - name: AWS
+          img:
+        - name: Azure
+          img:
+
+    - title: Framework
+      skills:
+        - name: React
+          img:
+        - name: Spring boot
+          img:
+        - name: Spring
+          img:
+        - name: NodeJS
+          img:
+        - name: FastAPI
+          img:
+        - name: Vue.js
+          img: vue.png
+        - name: jQuery
+          img: jquery.jpg
+        - name: Docker
+          img:
+        - name: K8S
+          img:
+        - name: Firebase
+          img:
+
+    - title: ETC
+      skills:
+        - name: Jenkins
+          img:
+        - name: SonarQube
+          img:
+        - name: git
+          img:
+
+    - title: and More to come!
 #           skills:
 #           - name: etc
-#             img: 
+#             img:
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
