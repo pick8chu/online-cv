@@ -69,7 +69,8 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    - I'm a **software engineer - full stack engineer/project leader** working on project-based B2B applications supporting Samsung initiatives - talent management, factory maintenance, security, etc. 
+    - I'm a **software engineer - full stack engineer** with experiences on developing/maintaining solution in ISSUU.
+    - Previously, worked on project-based B2B applications supporting Samsung initiatives - talent management, factory maintenance, security, etc. 
     - I am always up for challenges, productive discussions and beers. 🍻
 
 education:
@@ -90,6 +91,7 @@ education:
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; abcde
         - Bullet point
         - Bullet point
+
 experiences:
   - role: Fullstack Developer
     time: Oct 2022 - Feb 2023
