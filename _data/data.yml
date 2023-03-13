@@ -12,6 +12,7 @@ sidebar:
   sir-name: Kim
   tagline: Software Engineer
   under_position: Full-stack developer
+  location: 🏠Copenhagen, Denmark
   avatar: profile1.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
