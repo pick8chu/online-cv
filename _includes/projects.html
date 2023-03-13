@@ -1,69 +1,59 @@
-{% assign projects = site.data.data.projects %}
-{% if projects %}
+{% assign projects = site.data.data.projects %} {% if projects %}
 <section class="section projects-section not-print">
-  
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
     </span>
-    <span class="title">
-      {{ projects.title }}
-    </span>
+    <span class="title"> {{ projects.title }} </span>
   </h2>
 
-<!--   {% if projects.intro %}
+  <!--   {% if projects.intro %}
   <div class="intro">
       <p>{{ projects.intro }}</p>
   </div>
   {% endif %} -->
 
   {% for project in projects.assignments %}
-    <div class="item">
-
-      <span class="project-title">
-        {% if project.link %}
-        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
-        {% else %}
-        {{ project.title }}
-        {% endif %}
-      </span>
-      <div class="project-sub">
-        <div class="project-position-div text-align-left">
-          <span class="project-position"> {{ project.role }} </span>
-        </div>
-        <div>
-          <span> {{ project.year }} </span> 
-        </div>
+  <div class="item">
+    <span class="project-title">
+      {% if project.link %}
+      <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
+      {% else %} {{ project.title }} {% endif %}
+    </span>
+    <div class="project-sub">
+      <div class="project-position-div text-align-left">
+        <span class="project-position"> {{ project.role }} </span>
       </div>
-
-      {% if project.tagline %}  
-        {{ project.tagline | markdownify }}
-<!--       - <span class="project-tagline">{{ project.tagline }}</span> -->
-      {% endif %}
-
-      {% if project.skill %}  
       <div>
-<!--       <span class="skill-header"> Skills </span> -->
-        {% for skill in project.skill %}
-        <span class="skill-name">{{ skill.name }}</span>
-<!--       - <span class="project-tagline">{{ project.tagline }}</span> -->
-        {% endfor %}
+        <span> {{ project.year }} </span>
       </div>
-      {% endif %}
+    </div>
 
-    </div><!--//item-->
-    <div class="separator"><hr></div>
+    {% if project.tagline %} {{ project.tagline | markdownify }}
+    <!--       - <span class="project-tagline">{{ project.tagline }}</span> -->
+    {% endif %} {% if project.skill %}
+    <div>
+      <!--       <span class="skill-header"> Skills </span> -->
+      {% for skill in project.skill %}
+      <span class="skill-name">{{ skill.name }}</span>
+      <!--       - <span class="project-tagline">{{ project.tagline }}</span> -->
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+  <!--//item-->
+  <div class="separator"><hr /></div>
   {% endfor %}
-
-</section><!--//section-->
+</section>
+<!--//section-->
 
 <section class="section projects-section print-only">
-  <div class="separator"><hr></div>
+  <div class="separator"><hr /></div>
   <div class="item">
-      <span class="project-title">
-        Project descriptions can be found on online CV 😊
-      </span>
+    <span class="project-title">
+      Project descriptions can be found on online CV 😊
+    </span>
   </div>
 </section>
 {% endif %}

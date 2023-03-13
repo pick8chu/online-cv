@@ -1,4 +1,5 @@
 /* ======= Base ======= */
+
 body {
   font-family: "Lato";
   color: $text-color-secondary;
@@ -20,10 +21,10 @@ blockquote {
   color: #aaa;
 }
 
-.print-only{
+.print-only {
   display: none;
 }
-  
+
 h1,
 h2,
 h3,
@@ -34,7 +35,7 @@ h6 {
 }
 
 a {
-//   color: darken($theme-color, 15%);
+  //   color: darken($theme-color, 15%);
   &:hover {
     text-decoration: underline;
     color: darken($theme-color, 30%);
@@ -51,18 +52,18 @@ p {
 .wrapper {
   display: grid;
   grid-template-columns: repeat(10, 1fr);
-//   background: $theme-color;
+  //   background: $theme-color;
   background: white;
   max-width: 1000px;
   margin: 0 auto;
   position: relative;
-  box-shadow :0 4px 8px 0 rgba(0, 0, 0, 10%), 0 6px 20px 0 rgba(0, 0, 0, 5%);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 10%), 0 6px 20px 0 rgba(0, 0, 0, 5%);
 }
 
 .sidebar-wrapper {
   grid-column: span 3;
   order: 0;
-//   background: $theme-color;
+  //   background: $theme-color;
   color: black;
   a {
     color: #005180;
@@ -75,13 +76,13 @@ p {
     padding: 20px 10px 20px 20px;
     background: hwb(212deg 1% 37% / 20%);
     text-align: right;
-//     height: 360px;
+    //     height: 360px;
     text-align: center;
     .name {
-      font-family: "arial", sans-serif !important; 
+      font-family: "arial", sans-serif !important;
     }
     @media (min-width: 965px) {
-//       height: 510px;
+      //       height: 510px;
       text-align: right;
     }
   }
@@ -91,25 +92,28 @@ p {
     margin-top: 0;
     margin-bottom: 10px;
     color: #005180;
-    .eng-name{
+    .eng-name {
       color: #337ab7a8;
     }
   }
   .tagline {
     font-size: 24px;
-//     line-height: 0px;
+    //     line-height: 0px;
     font-weight: 400;
-//     padding-bottom: 10px;
-//     padding-top: 10px;
+    margin-bottom: 0px;
+    //     padding-bottom: 10px;
+    //     padding-top: 10px;
+  }
+  .location {
+    color: #d82424;
   }
   .under_position {
     font-size: 14px;
-    color: #545E6C;
+    color: #545e6c;
   }
   .profile {
     margin-bottom: 15px;
   }
-
   .avatar {
     //used for profile image
     max-width: 300px;
@@ -122,7 +126,7 @@ p {
     }
   }
   .contact-list {
-		word-break: break-all;
+    word-break: break-all;
     .fas,
     .fab,
     .far {
@@ -179,7 +183,6 @@ p {
       color: rgba(0, 0, 0, 0.6);
     }
   }
-
   .languages-list {
     margin-bottom: 0;
     li {
@@ -189,7 +192,6 @@ p {
       }
     }
   }
-
   .interests-list {
     margin-bottom: 0;
     li {
@@ -219,11 +221,11 @@ p {
       margin-right: 30%;
       border-radius: 50px;
     }
-//     background: rgb(111, 141, 179);
-//     margin-right: 35%;
-//     border-radius: 50px;
+    //     background: rgb(111, 141, 179);
+    //     margin-right: 35%;
+    //     border-radius: 50px;
     .title {
-//       color: white;
+      //       color: white;
       padding-top: 7px;
       @media (max-width: 764px) {
         color: white;
@@ -233,7 +235,6 @@ p {
   .section {
     margin-bottom: 60px;
   }
-
   .experiences-section,
   .educations-section {
     .item {
@@ -246,9 +247,9 @@ p {
     overflow: hidden;
     justify-content: space-between;
     margin-bottom: 2px;
-	@media (max-width: 965px){
-	  flex-direction: column;
-	}
+    @media (max-width: 965px) {
+      flex-direction: column;
+    }
   }
   .meta {
     display: flex;
@@ -265,7 +266,7 @@ p {
   }
   .job-title,
   .degree {
-    color: #3F4650;
+    color: #3f4650;
     font-size: 26px;
     margin-top: 0;
     margin-bottom: 0;
@@ -279,7 +280,6 @@ p {
     margin-bottom: 10px;
     color: $text-grey;
   }
-
   .project-title {
     font-size: 20px;
     font-weight: 400;
@@ -301,7 +301,7 @@ p {
     justify-content: space-between;
     display: flex;
     margin-bottom: 10px;
-    color: #97AAC3;
+    color: #97aac3;
     @media (max-width: 965px) {
       flex-direction: column;
     }
@@ -309,10 +309,8 @@ p {
       text-align: left;
       background: rgba(205, 219, 236, 35%);
       padding: 3px;
-      
     }
   }
-
   .publication-title {
     font-size: 16px;
     font-weight: 400;
@@ -336,11 +334,10 @@ p {
 
 .skillset {
   @media (min-width: 965px) {
-    column-count: 2;    
+    column-count: 2;
   }
   column-count: 1;
   column-rule: 1px solid #ddd;
-  
   .skillset-div {
     padding: 0 10px 0 10px;
     margin: 0 0 20px 0;
@@ -371,13 +368,14 @@ p {
     width: 100px;
     height: 100px;
     border-radius: 40%;
-    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25), 0 2px 2px rgba(0, 0, 0, 0.2), 0 4px 4px rgba(0, 0, 0, 0.15), 0 8px 8px rgba(0, 0, 0, 0.1), 0 16px 16px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25), 0 2px 2px rgba(0, 0, 0, 0.2),
+      0 4px 4px rgba(0, 0, 0, 0.15), 0 8px 8px rgba(0, 0, 0, 0.1),
+      0 16px 16px rgba(0, 0, 0, 0.5);
     text-align: center;
     margin: 20px 5px;
     display: inline-flex;
     justify-content: center;
     flex-direction: column;
-
     .skill-img {
       width: 75px;
       height: 75px;
@@ -388,11 +386,9 @@ p {
   }
 }
 
-
-
 .skill-name {
   display: inline-block;
-  border: 1px solid #545E6C;
+  border: 1px solid #545e6c;
   border-radius: 1em;
   padding: 0 10px 0 10px;
   line-height: 24px;
@@ -408,11 +404,9 @@ p {
     color: $text-color-secondary;
     font-size: 13px;
   }
-
   .fa-heart {
     color: $heart;
   }
-  
   .text-align-left {
     text-align: left;
   }
