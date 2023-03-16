@@ -110,9 +110,9 @@ experiences:
     details: |
       Fullstack developer working on project-based B2B applications supporting Samsung initiatives- talent management, factory maintenance, security, etc.
       - Led a team (client, design, dev) to develop a $600M contractor management system, delivering over 55 functional web pages and 10 table relations.
-      - Responsible for the dev of all reusable integration components (address, payment, auth, etc.), required for infrastructure update of company web app
+      - Responsible to develop all reusable integration components (address, payment, auth, etc.), required for infrastructure update of company web app
       - Built table relations, optimizations, API’s, and web pages for internal talent management system used by all Samsung devs and managers to staff projects
-      - Devised core algorithm for high availability home security alarm, using queue and map data structures to ensure data integrity and functional efficiency
+      - Devised core algorithm for a home security alarm, using queue and map data structures to ensure data integrity and functional efficiency
       - Collected and digitized Samsung factory metadata by working with employees to develop ingestion scripts, enabling management of maintenance needs
 
   - role: Researching intern
