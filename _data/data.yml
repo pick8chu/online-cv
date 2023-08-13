@@ -11,7 +11,7 @@ sidebar:
   eng-name: Ethan
   sir-name: Kim
   tagline: Software Engineer
-  under_position: Full-stack developer
+  under_position: Senior fullstack developer
   location: 🏠Copenhagen, Denmark
   avatar: profile1.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -70,8 +70,8 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    - I'm a **software engineer - full stack engineer** with experiences on developing/maintaining solution in ISSUU.
-    - Previously, worked on project-based B2B applications supporting Samsung initiatives - talent management, factory maintenance, security, etc. 
+    - I'm a **software engineer - senior full stack engineer** with experiences on developing/maintaining solutions.
+    - Experienced on project-based B2B applications supporting Samsung initiatives - talent management, factory maintenance, security, etc. 
     - I am always up for challenges, productive discussions and beers. 🍻
 
 education:
@@ -94,6 +94,13 @@ education:
         - Bullet point
 
 experiences:
+  - role: Senior Fullstack Developer
+    time: Aug 2023 - Present
+    company: NoA Ignite, Denmark
+    img: noa-ignite-logo.svg
+    details: |
+      Senior fullstack developer
+
   - role: Fullstack Developer
     time: Oct 2022 - Feb 2023
     company: ISSUU, Denmark
