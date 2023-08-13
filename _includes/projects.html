@@ -1,4 +1,5 @@
 {% assign projects = site.data.data.projects %}
+{% assign sidebar = site.data.data.sidebar %}
 {% if projects %}
 <section class="section projects-section not-print">
   
@@ -62,7 +63,7 @@
   <div class="separator"><hr></div>
   <div class="item">
       <span class="project-title">
-        Project descriptions can be found on online CV 😊
+        <a href="{{ sidebar.pdf }}" target="_blank">Project descriptions can be found on online CV 😊</a>
       </span>
   </div>
 </section>

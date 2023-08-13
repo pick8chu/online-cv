@@ -30,7 +30,7 @@ sidebar:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
-  pdf: pick8chu.github.io/online-cv/
+  pdf: https://pick8chu.github.io/online-cv/
 
   languages:
     - idiom: Korean
