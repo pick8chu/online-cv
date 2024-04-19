@@ -99,7 +99,10 @@ experiences:
     company: NoA Ignite, Denmark
     img: noa-ignite-logo.svg
     details: |
-      Senior fullstack developer
+      Leading the development in projects. Assessed and implemented structured solutions on cloud services.
+      - Led development for B2B applications, addressing software challenges and meeting deadlines using React TypeScript and Next.js.
+      - Designed solutions within the Azure ecosystem and structured front-end solutions to support business operations.
+      - Managed a logistics application integration and developed a PIM system proof of concept to meet client specifications.
 
   - role: Fullstack Developer
     time: Oct 2022 - Feb 2023
@@ -107,8 +110,7 @@ experiences:
     img: issuulogo.png
     details: |
       Fullstack developer. Mostly using React typescript for the frontend, typescript, OCaml for the backend. 
-      Responsibility was bounded to developing/maintaining reader side experiences.
-      Was laid off due to the employer's financial situation.
+      Responsible on developing/maintaining reader side experiences.
 
   - role: Software Engineer
     time: Jul 2018 - Sep 2022
@@ -149,7 +151,7 @@ projects:
   assignments:
     - title: Kyowon Next Generation Project
       role: Server Engineer
-      year: March 2022 – current
+      year: Mar 2022 – Sep 2022
       tagline: |
         -	Building web/mobile application from 30 years old legacy. 
         - Made several core modules integrating with external solutions such as an address solution, payment solution, authentication solution, company-wide messenger, etc.
@@ -162,7 +164,7 @@ projects:
 
     - title: Cheil Worldwide credential DB & open platform system project
       role: Project Leader/Development Leader
-      year: July 2021 – Dec 2021
+      year: Jul 2021 – Dec 2021
       tagline: |
         - Developed a company-wide linkedin-like platform.
         - Performed as a Project leader and tech lead.
@@ -320,6 +322,8 @@ skills:
     - title: Framework
       skills:
         - name: React
+          img:
+        - name: Next.js
           img:
         - name: Spring boot
           img:
