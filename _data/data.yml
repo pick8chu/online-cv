@@ -68,10 +68,12 @@ sidebar:
       link:
 
 career-profile:
-  title: Career Profile
+  title: Introduction
   summary: |
-    - I'm a **software engineer - senior full stack engineer** with experience in developing/maintaining solutions. 
-    - Always up for challenges, productive discussions and beers. 🍻
+    - Senior Fullstack Developer with 7+ years of experience designing and delivering scalable applications across cloud ecosystems (Azure, AWS, OCI) and modern web frameworks (React, Next.js, Spring, Node.js). 
+    - Proven track record leading cross-functional teams and building end-to-end solutions — from B2B applications at Samsung SDS impacting thousands of users, to innovative POCs integrating cloud-native SaaS and AI-driven systems like RAG with vector databases. 
+    - Passionate about solving complex problems, optimizing with AI, mentoring peers, and driving impactful digital transformation. 
+    - Outside of work, always up for challenges, productive discussions, and beers 🍻. Into bouldering, swimming, and kayaking 👍
 
 education:
   - degree: BSc in Computer Science
@@ -98,10 +100,10 @@ experiences:
     company: NoA Ignite, Denmark
     img: noa-ignite-logo.svg
     details: |
-      Working with various projects as assessing and implementing structured solutions, talking to stakeholders.
-      - Implemented a RAG with LLM and vector database for over +115k PDFs.
-      - Built a proof of concept for integrating a cloud-native SaaS into a B2C e-commerce platform for a telecom with 1.4M customers.
-      - Designed solutions within the Azure ecosystem and implemented fullstack/pipeline solutions to support business operations/logics.
+      Working with various projects as assessing and implementing structured solutions, talking to stakeholders
+      - Implemented a RAG with LLM and vector database for over +115k PDFs
+      - Built a proof of concept for integrating a cloud-native SaaS into a B2C e-commerce platform for a telecom with 1.4M customers
+      - Designed solutions within the Azure ecosystem and implemented fullstack/pipeline solutions to support business operations/logics
 
   - role: Fullstack Developer
     time: Oct 2022 - Feb 2023
@@ -341,6 +343,17 @@ skills:
         - name: K8S
           img:
         - name: Firebase
+          img:
+
+    - title: AI
+      skills:
+        - name: LLM
+          img:
+        - name: RAG
+          img:
+        - name: Vector DB
+          img:
+        - name: API integration
           img:
 
     - title: ETC
