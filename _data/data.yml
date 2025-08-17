@@ -99,10 +99,10 @@ experiences:
     company: NoA Ignite, Denmark
     img: noa-ignite-logo.svg
     details: |
-      Leading the development in projects. Assessed and implemented structured solutions on cloud services.
-      - Led development for B2B applications, addressing software challenges and meeting deadlines using React TypeScript and Next.js.
-      - Designed solutions within the Azure ecosystem and structured front-end solutions to support business operations.
-      - Managed a logistics application integration and developed a PIM system proof of concept to meet client specifications.
+      Working with various projects as assessing and implementing structured solutions, talking to stakeholders.
+      - Implemented a RAG with LLM and vector database for over +115k PDFs.
+      - Built a proof of concept for integrating a cloud-native SaaS into a B2C e-commerce platform for a telecom with 1.4M customers.
+      - Designed solutions within the Azure ecosystem and implemented fullstack/pipeline solutions to support business operations/logics.
 
   - role: Fullstack Developer
     time: Oct 2022 - Feb 2023
