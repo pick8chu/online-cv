@@ -101,7 +101,7 @@ experiences:
     img: noa-ignite-logo.svg
     details: |
       Working with various projects as assessing and implementing structured solutions, talking to stakeholders
-      - Implemented a RAG with LLM and vector database for over +115k PDFs
+      - Implemented a RAG with LLM and vector database for over +115k PDFs using FAISS library
       - Built a proof of concept for integrating a cloud-native SaaS into a B2C e-commerce platform for a telecom with 1.4M customers
       - Designed solutions within the Azure ecosystem and implemented fullstack/pipeline solutions to support business operations/logics
 
@@ -150,6 +150,16 @@ projects:
   #     intro: >
   #       Projects from Samsung SDS were mostly B2B, therefore, it wouldn't be visible to public. Thank you for your understading.
   assignments:
+    - title: Crypto currency Auto trading application
+      role: Side project
+      year: 2023 – 2024
+      tagline: |
+        Developed an auto crypto trading application using Python FastAPI.
+        Requesting an AI model for the analysis, and executing buy/hold/sell according to that. 
+      skill:
+      - name: Python
+      - name: AI
+
     - title: Kyowon Next Generation Project
       role: Server Engineer
       year: Mar 2022 – Sep 2022
