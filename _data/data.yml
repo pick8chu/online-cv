@@ -132,7 +132,7 @@ experiences:
     details: |
       Conducted research to determine the most efficient parallel processing algorithms for searching all-pairs shortest paths using C and OpenMP
       - Developed an algorithm that reduced time complexity needed to traverse real-world social networks from O(n3) to O(n2.4).
-      - Published paper accepted by International Parallel Processing Conference, [Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis](https://doi.org/10.1145/3229710.3229730).(Abstract is below)
+      - Published paper accepted by International Parallel Processing Conference, [Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis](https://dl.acm.org/doi/10.1145/3229710.3229730).(Abstract is below)
 
   - role: Artilleryman
     time: Jan 2013 - Oct 2014
@@ -267,7 +267,7 @@ projects:
       role: Researching Intern
       year: Aug 2017 - Feb 2018
       tagline: |
-        - Published a paper, “[Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis](https://doi.org/10.1145/3229710.3229730)”, and accepted by ICPP’18, Proceedings of the 47th International Conference on Parallel Processing Companion.
+        - Published a paper, “[Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis](https://dl.acm.org/doi/10.1145/3229710.3229730)”, and accepted by ICPP’18, Proceedings of the 47th International Conference on Parallel Processing Companion.
       skill:
         - name: C
         - name: openMP
@@ -277,7 +277,7 @@ projects:
 #     intro: |
 #     papers:
 #       - title: Efficient Parallel All-Pairs Shortest Paths Algorithm for Complex Graph Analysis
-#         link: "https://doi.org/10.1145/3229710.3229730"
+#         link: "https://dl.acm.org/doi/10.1145/3229710.3229730"
 #         authors: Jong Wook Kim, Hyoeun Choi, and Seung-Hee Bae
 #         conference: In Proceedings of the 47th International Conference on Parallel Processing Companion, 2018
 #         abstract: |
